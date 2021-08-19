@@ -1,0 +1,80 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTVOTT/BrooTV-ICONOS/main/BrooTV-LOGO.png",BrooTV
+#EXTGRP:INFO
+https://ia601502.us.archive.org/10/items/broo-tv-new-intro/BrooTV_NEW_intro.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTVOTT/BrooTV-ICONOS/main/BrooTV_PREMIUM.png",BrooTV | PREMIUM
+#EXTGRP:INFO
+https://ia601500.us.archive.org/18/items/broo-tv-premium-intro_202107/BrooTV_PREMIUM_intro.mp4
+
+
+#EXTINF:O,BrooTV | GOLDEN
+#EXTGRP:GOLDEN
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+
+#EXTINF:0,GOLDEN
+#EXTGRP:GOLDEN
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=123&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:0,GOLDEN EDGE
+#EXTGRP:GOLDEN
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=124&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:0,GOLDEN PLUS
+#EXTGRP:GOLDEN
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=122&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+
+#EXTINF:0,BrooTV | STAR PREMIUM
+#EXTGRP:STAR PREMIUM
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+
+#EXTINF:0,STAR CHANNEL
+#EXTGRP:STAR PREMIUM
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=201&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:0,STAR ACTION
+#EXTGRP: STAR PREMIUM
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=336&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:0,STAR SERIES
+#EXTGRP: STAR PREMIUM
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=139&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:0,STAR LIFE
+#EXTGRP: STAR PREMIUM
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=77&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:0,STAR HITS
+#EXTGRP: STAR PREMIUM
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=146&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:0,STAR CINEMA
+#EXTGRP:STAR PREMIUM
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1729&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:0,STAR CLASSICS
+#EXTGRP:STAR PREMIUM
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1732&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+
+
+#EXTINF:O,BrooTV | HBO
+#EXTGRP:HBO
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+
+#EXTINF:0,HBO
+#EXTGRP:HBO
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/144
+#EXTINF:0,HBO 2
+#EXTGRP:HBO
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/148
+#EXTINF:0,HBO+
+#EXTGRP:HBO
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/155
+#EXTINF:0,HBO FAMILY
+#EXTGRP:HBO
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/152
+#EXTINF:0,HBO SIGNATURE
+#EXTGRP:HBO
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/161
+#EXTINF:0,HBO MUNDI
+#EXTGRP:HBO
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/164
+#EXTINF:0,HBO POP
+#EXTGRP:HBO
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/167
+#EXTINF:0,HBO XTREME
+#EXTGRP:HBO
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/168
