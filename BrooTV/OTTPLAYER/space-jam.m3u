@@ -1,0 +1,15 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-logo="hhh",LA DE APP
+#EXTGRP:PELÍCULAS
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60361.mkv
+
+#EXTINF: -1 tvg-logo="hhh",LA 4K
+#EXTGRP:PELÍCULAS
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60363.mkv
+
+
+#EXTINF: -1 tvg-logo="hhh",LA 1080 P
+#EXTGRP:PELÍCULAS
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60362.mkv
+
