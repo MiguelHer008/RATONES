@@ -1,27 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/24/items/logo_/Star_Channel.png",Star Channel
-#EXTGRP:PREMIUM
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=201&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Action.png",Star Action
-#EXTGRP:PREMIUM
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=336&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Series.png",Star Series
-#EXTGRP:PREMIUM
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=139&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Life.png",Star Life
-#EXTGRP:PREMIUM
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=77&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Hits.png",Star Hits
-#EXTGRP:PREMIUM
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=146&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Cinema.png",Star Cinema
-#EXTGRP:PREMIUM
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1729&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Classics.png",Star Classics
-#EXTGRP:PREMIUM
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1732&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-
 #EXTINF:0,AZTECA UNO
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=7&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
@@ -265,25 +243,25 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=124&f=HLSAD&s=zec
 #EXTINF:0,GOLDEN PLUS
 #EXTGRP:PREMIUM
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=122&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:0,FOX
+#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/24/items/logo_/Star_Channel.png",Star Channel
 #EXTGRP:PREMIUM
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=201&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:0,FOX ACTION
+#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Action.png",Star Action
 #EXTGRP:PREMIUM
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=336&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BSB0_t-eGVk/W6lolLry8HI/AAAAAAAAAH4/zBZHTy0PjY43ANG82NRlKUk8skhTP51EACPcBGAYYCw/s1600/foxseriespremium.png",Fox Series
+#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Series.png",Star Series
 #EXTGRP:PREMIUM
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=139&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:0,FOX LIFE
+#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Life.png",Star Life
 #EXTGRP:PREMIUM
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=77&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:0,FOX MOVIES
+#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Hits.png",Star Hits
 #EXTGRP:PREMIUM
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=146&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fox_Premium_Cinema_2017.svg/revision/latest/scale-to-width-down/300?cb=20200510180604&path-prefix=es",Fox Cinema
+#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Cinema.png",Star Cinema
 #EXTGRP:PREMIUM
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1729&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:0,FOX CLASSICS
+#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Classics.png",Star Classics
 #EXTGRP:PREMIUM
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1732&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 
