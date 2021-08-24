@@ -18,7 +18,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2606&f=HLSAD&s=ze
 #EXTINF:0,CANAL 5
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1785&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1JegKzPM66w/Xu6fHV_srpI/AAAAAAAAJ7o/XvFb74Lryj8u1TYUdv9kK2Ryx0j1TgL5gCLcBGAsYHQ/s1600/el-nueve.png",NU9VE
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/18/items/logo_de_/NU9VE.png",NU9VE
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1783&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601509.us.archive.org/10/items/logotv_/Azteca_7.png",Azteca 7
@@ -168,20 +168,18 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=59&f=HLSAD&s=zecp
 #EXTINF:0,FX
 #EXTGRP:ENTRETENIMIENTO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=209&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:0,A&E
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/18/items/logo_de_/A%26E.png",A&E
 #EXTGRP:ENTRETENIMIENTO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=62&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:0,AXN
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/18/items/logo_de_/AXN.png",AXN
 #EXTGRP:ENTRETENIMIENTO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=64&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 #EXTINF:0,UNIVISION
 #EXTGRP:ENTRETENIMIENTO
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
-#EXTINF:0,UNICABLE
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/18/items/logo_de_/Unicable.png",Unicable
 #EXTGRP:ENTRETENIMIENTO
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1499&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.#EXTINF:0,TNT SERIES
-#EXTGRP:ENTRETENIMIENTO
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1499&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 #EXTINF:0,GLITZ
 #EXTGRP:ENTRETENIMIENTO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=76&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
@@ -191,7 +189,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=74&f=HLSAD&s=zecp
 #EXTINF:-1 tvg-logo="https://ia601509.us.archive.org/10/items/logotv_/Distrito_Comedia.png",Distrito Comedia
 #EXTGRP:ENTRETENIMIENTO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:0,COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/18/items/logo_de_/Comedy_Central.png",Comedy Central
 #EXTGRP:ENTRETENIMIENTO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=340&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 #EXTINF:0,TRUTV
@@ -232,7 +230,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=zec
 #EXTINF:0,TNT
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/18/items/logo_de_/TNT_Series.png",TNT Series
+#EXTGRP:ENTRETENIMIENTO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 
 #EXTINF:0,GOLDEN
 #EXTGRP:PREMIUM
@@ -290,7 +290,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=138&f=HLSAD&s=zec
 #EXTINF:-1 tvg-logo="https://morbido.tv/images/morbido-blanco-completo.png",Morbido
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=140&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:0,CINECANAL
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/18/items/logo_de_/Cinecanal.png",Cinecanal
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=149&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 #EXTINF:0,CINEMAX
@@ -313,7 +313,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=213&f=HLSAD&s=zec
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/MTV_80s_2020.png/revision/latest/scale-to-width-down/175?cb=20201008163056&path-prefix=es",MTV 80s
 #EXTGRP:MÚSICA
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=214&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-#EXTINF:0,BANDAMAX
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/18/items/logo_de_/Bandamax.png",Bandamax
 #EXTGRP:MÚSICA
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 #EXTINF:0,TELEHIT
