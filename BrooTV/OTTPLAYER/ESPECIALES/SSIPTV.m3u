@@ -1,13 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://ia601509.us.archive.org/29/items/star-channel_202108/Star-Channel.png",Star Channel
+#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/24/items/logo_/Star_Channel.png",Star Channel
 #EXTGRP:PREMIUM
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=201&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-
-#EXTINF:-1 tvg-logo="https://ia801509.us.archive.org/29/items/star-channel_202108/Star-Life.png",Star Life
+#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Action.png",Star Action
+#EXTGRP:PREMIUM
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=336&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Series.png",Star Series
+#EXTGRP:PREMIUM
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=139&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Life.png",Star Life
 #EXTGRP:PREMIUM
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=77&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
-
+#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Hits.png",Star Hits
+#EXTGRP:PREMIUM
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=146&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Cinema.png",Star Cinema
+#EXTGRP:PREMIUM
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1729&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Classics.png",Star Classics
+#EXTGRP:PREMIUM
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1732&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 
 #EXTINF:0,AZTECA UNO
 #EXTGRP:MÉXICO
