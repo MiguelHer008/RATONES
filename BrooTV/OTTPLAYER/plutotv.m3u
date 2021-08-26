@@ -1,10 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTVOTT/BrooTV-ICONOS/main/BrooTV-LOGO.png",BrooTV
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/brootv.png",BrooTV
 #EXTGRP:INFO
 https://ia601502.us.archive.org/10/items/broo-tv-new-intro/BrooTV_NEW_intro.mp4
 
-#EXTINF:0,BrooTV | Pluto TV
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/plutotv.png",BrooTV | Pluto TV
 #EXTGRP:PLUTO TV
 https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
 
