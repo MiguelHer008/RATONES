@@ -1,15 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTVOTT/BrooTV-ICONOS/main/BrooTV-LOGO.png",BrooTV
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/brootv.png",BrooTV
 #EXTGRP:INFO
 https://ia601502.us.archive.org/10/items/broo-tv-new-intro/BrooTV_NEW_intro.mp4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTVOTT/BrooTV-ICONOS/main/BrooTV_PREMIUM.png",BrooTV | PREMIUM
+#EXTINF:-1 tvg-logo="https://ia801408.us.archive.org/5/items/logos_/premium.png",BrooTV | PREMIUM
 #EXTGRP:INFO
 https://ia601500.us.archive.org/18/items/broo-tv-premium-intro_202107/BrooTV_PREMIUM_intro.mp4
 
 
-#EXTINF:O,BrooTV | GOLDEN
+#EXTINF:-1 tvg-logo="https://ia801408.us.archive.org/5/items/logos_/m3u.png",BrooTV | GOLDEN
 #EXTGRP:GOLDEN
 https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
 
@@ -26,7 +27,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=122&f=HLSAD&s=zec
 #EXTGRP:GOLDEN
 http://192.95.29.106:25461/chio/chio/771
 
-#EXTINF:0,BrooTV | STAR PREMIUM
+#EXTINF:-1 tvg-logo="https://ia801408.us.archive.org/5/items/logos_/m3u.png",BrooTV | STAR PREMIUM
 #EXTGRP:STAR PREMIUM
 https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
 
@@ -59,7 +60,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1729&f=HLSAD&s=ze
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1732&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 
 
-#EXTINF:O,BrooTV | HBO
+#EXTINF:-1 tvg-logo="https://ia801408.us.archive.org/5/items/logos_/m3u.png",BrooTV | HBO
 #EXTGRP:HBO
 https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
 
