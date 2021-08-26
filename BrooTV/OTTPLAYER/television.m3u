@@ -97,6 +97,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=118&f=HLSAD&s=zec
 #EXTINF:0,BOOMERANG
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=115&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:KIDS
+http://192.95.29.106:25461/chio/chio/414
 #EXTINF:0,NICK JR
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=117&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
@@ -195,7 +198,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=64&f=HLSAD&s=zecp
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1499&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 #EXTINF:0,UNIVISION
 #EXTGRP:FAMILIA
-https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
+http://192.95.29.106:25461/chio/chio/379
 #EXTINF:0,GLITZ
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=76&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
@@ -375,7 +378,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=zec
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1049&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 #EXTINF:0,AFIZZIONADOS
 #EXTGRP:DEPORTES
-http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+http://iptvhd.club:8443/televall2021/174_.m3u8?token=YHBai7niTD4l2lCBvtH7Mg&expires=1629924794
+#EXTINF:0,DIRECTV SPORTS
+#EXTGRP:DEPORTES
+http://192.95.29.106:25461/chio/chio/6031
 #EXTINF:0,GOLF
 #EXTGRP:DEPORTES
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=179&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
