@@ -9,7 +9,7 @@ https://ia601502.us.archive.org/10/items/broo-tv-new-intro/BrooTV_NEW_intro.mp4
 https://ia601505.us.archive.org/0/items/broo-tv-television-intro_20210722/BrooTV_TELEVISION_intro.mp4
 
 
-#EXTINF:0,BrooTV | MÉXICO
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | MÉXICO
 #EXTGRP:MÉXICO
 https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
 
@@ -72,7 +72,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=44&f=HLSAD&s=zecp
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2324&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 
 
-#EXTINF:0,BrooTV | KIDS
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | KIDS
 #EXTGRP:KIDS
 https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
 
@@ -117,7 +117,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=112&f=HLSAD&s=zec
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2591&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 
 
-#EXTINF:0,BrooTV | CULTURA
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | CULTURA
 #EXTGRP:CULTURA
 https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
 
@@ -162,7 +162,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=198&f=HLSAD&s=zec
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2375&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 
 
-#EXTINF:0,BrooTV | FAMILIA
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | FAMILIA
 #EXTGRP:FAMILIA
 https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
 
@@ -231,7 +231,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&s=zec
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1842&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 
 
-#EXTINF:0,BrooTV | CINE Y SERIES
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | CINE Y SERIES
 #EXTGRP:CINE Y SERIES
 https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
 
@@ -294,7 +294,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=158&f=HLSAD&s=zec
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 
 
-#EXTINF:0,BrooTV | MÚSICA
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | MÚSICA
 #EXTGRP:MÚSICA
 https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
 
@@ -348,7 +348,7 @@ http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/25.m3u8
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=334&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 
 
-#EXTINF:0,BrooTV | DEPORTES
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | DEPORTES
 #EXTGRP:DEPORTES
 https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
 
