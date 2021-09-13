@@ -9,42 +9,29 @@ https://ia601502.us.archive.org/10/items/broo-tv-new-intro/BrooTV_NEW_intro.mp4
 https://ia601500.us.archive.org/8/items/broo-tv-channel-films/BrooTV_Channel_FILMS.mp4
 
 
-#EXTINF:0,RALPH EL DEMOLEDOR
-#EXTGRP:FILMS
-http://193.34.144.178/Bryan/pelisdisney/Ver%20%c2%a1Rompe%20Ralph!%20_%20Ralph,%20el%20demoledor%20Online%20(2012)%20-%20REPELIS%20Pel%c3%adculas%20HD.MP4
 
 
-#EXTINF:0,INTENSAMENTE
-#EXTGRP:FILMS
-http://193.34.144.178/Bryan/pelisdisney/intensamente.mp4
-
-
-#EXTINF:0,LILO & STICH
-#EXTGRP:FILMS
-http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Lilo%20y%20Stitch%201%20Online%20Gratis.MP4
-
-
-#EXTINF:0,ZOMBIE A LOS 17
+#EXTINF:-1 tvg-logo="",ZOMBIE A LOS 17
 #EXTGRP:FILMS
 http://tux-vod.dynu.com/peliculas/720/zombie%20at%2017%202018.mkv
 
 
-#EXTINF:0,LA LIGA DE LA JUSTICIA OSCURA: APOKOLIPS WAR
+#EXTINF:-1 tvg-logo="",LA LIGA DE LA JUSTICIA OSCURA: APOKOLIPS WAR
 #EXTGRP:FILMS
 https://archive.org/download/pacasmayo/pacasmayo/pacasmayo.mkv
 
 
-#EXTINF:0,LA LIGA DE LA JUSTICIA OSCURA
+#EXTINF:-1 tvg-logo="",LA LIGA DE LA JUSTICIA OSCURA
 #EXTGRP:FILMS
 https://archive.org/download/8-liga-de-la-justicia-oscura/8/8%20-%20Liga%20de%20La%20Justicia%20Oscura.mp4
 
 
-#EXTINF:0,TIERRA DE OSOS
+#EXTINF:-1 tvg-logo="",TIERRA DE OSOS
 #EXTGRP:FILMS
 https://ia601402.us.archive.org/21/items/1e08_20191210/bf0c.mp4
 
 
-#EXTINF:0,TIERRA DE OSOS 2
+#EXTINF:-1 tvg-logo="",TIERRA DE OSOS 2
 #EXTGRP:FILMS
 https://ia601402.us.archive.org/21/items/1e08_20191210/f163.mp4
 
@@ -94,11 +81,6 @@ https://lh3.googleusercontent.com/MfpTJxg8rxbMMfIxAoezrhwIoRK9qUUcb5uSb0jVgUf3Gd
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60361.mkv
 
 
-#EXTINF:-1 tvg-logo="",FROZEN
-#EXTGRP:FILMS
-http://193.34.144.178/Bryan/pelisdisney/Ver%20Frozen-%20El%20reino%20del%20hielo%20Online%20(2013)%20-%20REPELIS%20Pel%c3%adculas%20HD.MP4
-
-
 #EXTINF:-1 tvg-logo="",FROZEN 2
 #EXTGRP:FILMS
 https://ia902803.us.archive.org/27/items/0_20200218_20200218/301.mp4
@@ -139,11 +121,6 @@ https://ia801001.us.archive.org/27/items/e4dg1me/e4dg1me.mp4
 https://ia902906.us.archive.org/27/items/00_20200409/03.mp4
 
 
-#EXTINF:-1 tvg-logo="",BLOODSHOT
-#EXTGRP:FILMS
-https://ia903206.us.rg/1/items/6_20200607_20200607_1857/2.mp4
-
-
 #EXTINF:-1 tvg-logo="",BRIGHT
 #EXTGRP:FILMS
 https://ia601002.us.archive.org/6/items/masterxts_yopmail_B1/b1.mp4
@@ -167,43 +144,3 @@ https://ia802807.us.archive.org/18/items/000_20200129_20200129_0445/2.mp4
 #EXTINF:-1 tvg-logo="",ABRAHAM LINCOLN: CAZADOR DE VAMPIROS
 #EXTGRP:FILMS
 https://ia902800.us.archive.org/17/items/angel_erika_92_hotmail_0/AbrahanLinconCazadorDeVampiros.mp4
-
-
-#EXTINF:-1 tvg-logo="",VIUDA NEGRA
-#EXTGRP:FILMS
-https://ia801901.us.archive.org/2/items/blacuidow/blacuidow.mp4
-
-
-#EXTINF:-1 tvg-logo="",PREMONITION 7 DÍAS
-#EXTGRP:FILMS
-https://tecnolive.club/movs/premoniciones.mp4
-
-
-#EXTINF:-1 tvg-logo="",GODZILLA VS KONG
-#EXTGRP:FILMS
-https://tecnolive.club/movs/gvsk.mp4
-
-
-#EXTINF:-1 tvg-logo="",SKYLINES
-#EXTGRP:FILMS
-https://tecnolive.club/movs/Skylines.mp4
-
-
-#EXTINF:-1 tvg-logo="",RUEGA POR NOSOTROS
-#EXTGRP:FILMS
-https://tecnolive.club/movs/ruega.mp4
-
-
-#EXTINF:-1 tvg-logo="",LA GUERRA DEL MAÑANA
-#EXTGRP:FILMS
-https://tecnolive.club/movs/guerram.mp4
-
-
-#EXTINF:-1 tvg-logo="",LOS CROODS: UNA NUEVA ERA
-#EXTGRP:FILMS
-https://tecnolive.club/movs/croods2.mp4
-
-
-#EXTINF:-1 tvg-logo="",JUNGLE CRUISE
-#EXTGRP:FILMS
-https://tecnolive.club/movs/jun.mp4
