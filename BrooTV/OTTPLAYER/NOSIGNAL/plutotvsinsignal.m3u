@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTVOTT/BrooTV-ICONOS/main/BrooTV-LOGO.png",BrooTV
+#EXTGRP:INFO
+https://ia601502.us.archive.org/10/items/broo-tv-new-intro/BrooTV_NEW_intro.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTVOTT/BrooTV-ICONOS/main/BrooTV_PLUTO_%20TV.png",BrooTV | PLUTO TV
+#EXTGRP:INFO
+https://ia601401.us.archive.org/3/items/broo-tv-pluto-tv-intro_202107/BrooTV_PLUTO_TV_intro.mp4
+
+#EXTINF:0,BrooTV | Pluto TV
+#EXTGRP:PLUTO TV
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+
+#EXTINF:0,CINE
+#EXTGRP:PLUTO TV
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:0,CINE ACCIÓN
+#EXTGRP:PLUTO TV
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:0,CINE CLÁSICO
+#EXTGRP:PLUTO TV
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:0,CINE COMEDIA
+#EXTGRP:PLUTO TV
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:0,CINE DRAMA
+#EXTGRP:PLUTO TV
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:0,CINE ESTELAR
+#EXTGRP:PLUTO TV
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:0,CINE ESTRELLA DE ACCIÓN
+#EXTGRP:PLUTO TV
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:0,CINE FAMILIA
+#EXTGRP:PLUTO TV
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:0,CINE SUSPENSO
+#EXTGRP:PLUTO TV
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:0,CINE TERROR
+#EXTGRP:PLUTO TV
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:0, HISTORIAS DE ULTRATUMBA
+#EXTGRP:PLUTO TV
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
