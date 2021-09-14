@@ -1,14 +1,52 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://ia801408.us.archive.org/5/items/logos_/brootv.png",BrooTV 6-SEPTIEMBRE-2021
+#EXTINF:-1 tvg-logo="https://ia801408.us.archive.org/5/items/logos_/brootv.png",BrooTV | FILMS
 #EXTGRP:INFO
 https://ia601502.us.archive.org/10/items/broo-tv-new-intro/BrooTV_NEW_intro.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/films.png",BrooTV  FILMS
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/films.png",13 - SEPTIEMBRE - 2021
 #EXTGRP:FILMS
 https://ia601500.us.archive.org/8/items/broo-tv-channel-films/BrooTV_Channel_FILMS.mp4
 
 
+#EXTINF:-1 tvg-logo="",EL CADÁVER DE LA NOVIA
+#EXTGRP:FILMS
+https://ia902901.us.archive.org/15/items/stop_20200308/3lc4d4v3rd3l4n0v14.mp4
+
+
+#EXTINF:-1 tvg-logo="",LAS BRUJAS
+#EXTGRP:FILMS
+http://vod.tuxchannel.tv/peliculas/720/the%20witches%202020.mkv
+
+
+#EXTINF:-1 tvg-logo="",PASANTE DE MODA
+#EXTGRP:FILMS
+https://ia803006.us.archive.org/35/items/kuhlman_1_20190504/3.mp4
+
+
+#EXTINF:-1 tvg-logo="",NUESTRA PANDILLA
+#EXTGRP:FILMS
+https://ia801901.us.archive.org/1/items/20200515-153508/5pjjfkh574blfd2a379kfjfhr.mp4
+
+
+#EXTINF:-1 tvg-logo="",MI PRIMER AMOR
+#EXTGRP:FILMS
+http://vod.tuxchannel.tv/peliculas/720/forever%20first%20love%202020.mkv
+
+
+#EXTINF:-1 tvg-logo="",SOUL
+#EXTGRP:FILMS
+https://archive.org/download/soul.-2020/Soul.2020.mkv
+
+
+#EXTINF:-1 tvg-logo="",LA ERA DE HIELO
+#EXTGRP:FILMS
+http://ia802907.us.archive.org/1/items/next-3/l4h3r4d3h13l01.mp4
+
+
+#EXTINF:-1 tvg-logo="",DIVA ADOLESCENTE
+#EXTGRP:FILMS
+https://ia801401.us.archive.org/12/items/brootv-films/diva_adolescente.mp4
 
 
 #EXTINF:-1 tvg-logo="",ZOMBIE A LOS 17
@@ -36,9 +74,24 @@ https://ia601402.us.archive.org/21/items/1e08_20191210/bf0c.mp4
 https://ia601402.us.archive.org/21/items/1e08_20191210/f163.mp4
 
 
-#EXTINF:-1 tvg-logo="",CONSTANTINE
+#EXTINF:-1 tvg-logo="",SPACE JAM: UNA NUEVA ERA
 #EXTGRP:FILMS
-https://ia800900.us.archive.org/30/items/pinche1/1.mp4
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60361.mkv
+
+
+#EXTINF:-1 tvg-logo="",LA MONJA
+#EXTGRP:FILMS
+https://dl.dropboxusercontent.com/s/hywnw4dpw1wq2xy/SalynPM-L.M.mp4?dl=0
+
+
+#EXTINF:-1 tvg-logo="",UN LUGAR EN SILENCIO
+#EXTGRP:FILMS
+https://lh3.googleusercontent.com/fDw7CruyBOYBx0VT4kFlT7nwkZr5oe-Z1PmrDVd43piCRUy0mQ68WHQIpciU-8AdZLtM_NZeHNwAVlDygWzqP_s7gPNP4P1bB55kBQfIL4e0R--0RZGCW5mFGnWzxoC1v-fXIkh3WMk=m37
+
+
+#EXTINF:-1 tvg-logo="",UN LUGAR EN SILENCIO PARTE II
+#EXTGRP:FILMS
+https://lh3.googleusercontent.com/MfpTJxg8rxbMMfIxAoezrhwIoRK9qUUcb5uSb0jVgUf3GdWKEQA3sSt4SHOYG2g753wTR9ZNPFqLslFuCX6dO32NrKLw6H94_B2O89OIgxAxiDPOZspZhXDl8wUXu7AQlPuT06OGKjI=m18
 
 
 #EXTINF:-1 tvg-logo="",TOY STORY
@@ -61,79 +114,9 @@ https://archive.org/download/3gefgyilegfielngfilsaegfyiserfyiditeidfseyifdyeldye
 https://archive.org/download/ts4ps/ts4ps.mkv
 
 
-#EXTINF:-1 tvg-logo="",LA MONJA
+#EXTINF:-1 tvg-logo="",ABRAHAM LINCOLN: CAZADOR DE VAMPIROS
 #EXTGRP:FILMS
-https://dl.dropboxusercontent.com/s/hywnw4dpw1wq2xy/SalynPM-L.M.mp4?dl=0
-
-
-#EXTINF:-1 tvg-logo="",UN LUGAR EN SILENCIO
-#EXTGRP:FILMS
-https://lh3.googleusercontent.com/fDw7CruyBOYBx0VT4kFlT7nwkZr5oe-Z1PmrDVd43piCRUy0mQ68WHQIpciU-8AdZLtM_NZeHNwAVlDygWzqP_s7gPNP4P1bB55kBQfIL4e0R--0RZGCW5mFGnWzxoC1v-fXIkh3WMk=m37
-
-
-#EXTINF:-1 tvg-logo="",UN LUGAR EN SILENCIO PARTE II
-#EXTGRP:FILMS
-https://lh3.googleusercontent.com/MfpTJxg8rxbMMfIxAoezrhwIoRK9qUUcb5uSb0jVgUf3GdWKEQA3sSt4SHOYG2g753wTR9ZNPFqLslFuCX6dO32NrKLw6H94_B2O89OIgxAxiDPOZspZhXDl8wUXu7AQlPuT06OGKjI=m18
-
-
-#EXTINF:-1 tvg-logo="",SPACE JAM: UNA NUEVA ERA
-#EXTGRP:FILMS
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60361.mkv
-
-
-#EXTINF:-1 tvg-logo="",FROZEN 2
-#EXTGRP:FILMS
-https://ia902803.us.archive.org/27/items/0_20200218_20200218/301.mp4
-
-
-#EXTINF:-1 tvg-logo="",E.T. EL EXTRATERRESTRE
-#EXTGRP:FILMS
-https://ia802803.us.archive.org/27/items/img20200212wa0138/0054433529.mp4
-
-
-#EXTINF:-1 tvg-logo="",ENREDADOS
-#EXTGRP:FILMS
-https://ia803103.us.archive.org/25/items/3NR3D4D0S2010/Enredados.2010.ENREDADOS.720p%20bak0r.mp4
-
-
-#EXTINF:-1 tvg-logo="",EL VUELO
-#EXTGRP:FILMS
-https://ia803203.us.archive.org/17/items/captura-de-pantalla-2_202009/VU3L01.mp4
-
-
-#EXTINF:-1 tvg-logo="",EL EXORCISTA
-#EXTGRP:FILMS
-https://ia601702.us.archive.org/5/items/00000_202008/000000028.mp4
-
-
-#EXTINF:-1 tvg-logo="",AVATAR
-#EXTGRP:FILMS
-https://ia600901.us.archive.org/4/items/dovacateg_maillink_1/wiimc/1.mp4
-
-
-#EXTINF:-1 tvg-logo="",VENGADORES: ENDGAME
-#EXTGRP:FILMS
-https://ia801001.us.archive.org/27/items/e4dg1me/e4dg1me.mp4
-
-
-#EXTINF:-1 tvg-logo="",AVES DE PRESA
-#EXTGRP:FILMS
-https://ia902906.us.archive.org/27/items/00_20200409/03.mp4
-
-
-#EXTINF:-1 tvg-logo="",BRIGHT
-#EXTGRP:FILMS
-https://ia601002.us.archive.org/6/items/masterxts_yopmail_B1/b1.mp4
-
-
-#EXTINF:-1 tvg-logo="",CORALINE
-#EXTGRP:FILMS
-https://ia903108.us.archive.org/23/items/20c08smp0392lcm43s/20C08SMp0392lcm.mp4
-
-
-#EXTINF:-1 tvg-logo="",THE LOVELY BONES
-#EXTGRP:FILMS
-https://ia903207.us.archive.org/12/items/desde-mi-cielo/D35d3M1C1310.mp4
+https://ia902800.us.archive.org/17/items/angel_erika_92_hotmail_0/AbrahanLinconCazadorDeVampiros.mp4
 
 
 #EXTINF:-1 tvg-logo="",AD ASTRA
@@ -141,6 +124,61 @@ https://ia903207.us.archive.org/12/items/desde-mi-cielo/D35d3M1C1310.mp4
 https://ia802807.us.archive.org/18/items/000_20200129_20200129_0445/2.mp4
 
 
-#EXTINF:-1 tvg-logo="",ABRAHAM LINCOLN: CAZADOR DE VAMPIROS
+#EXTINF:-1 tvg-logo="",THE LOVELY BONES
 #EXTGRP:FILMS
-https://ia902800.us.archive.org/17/items/angel_erika_92_hotmail_0/AbrahanLinconCazadorDeVampiros.mp4
+https://ia903207.us.archive.org/12/items/desde-mi-cielo/D35d3M1C1310.mp4
+
+
+#EXTINF:-1 tvg-logo="",CORALINE
+#EXTGRP:FILMS
+https://ia903108.us.archive.org/23/items/20c08smp0392lcm43s/20C08SMp0392lcm.mp4
+
+
+#EXTINF:-1 tvg-logo="",BRIGHT
+#EXTGRP:FILMS
+https://ia601002.us.archive.org/6/items/masterxts_yopmail_B1/b1.mp4
+
+
+#EXTINF:-1 tvg-logo="",AVES DE PRESA
+#EXTGRP:FILMS
+https://ia902906.us.archive.org/27/items/00_20200409/03.mp4
+
+
+#EXTINF:-1 tvg-logo="",AVENGERS ENDGAME
+#EXTGRP:FILMS
+https://ia801001.us.archive.org/27/items/e4dg1me/e4dg1me.mp4
+
+
+#EXTINF:-1 tvg-logo="",AVATAR
+#EXTGRP:FILMS
+https://ia600901.us.archive.org/4/items/dovacateg_maillink_1/wiimc/1.mp4
+
+
+#EXTINF:-1 tvg-logo="",EL EXORCISTA
+#EXTGRP:FILMS
+https://ia601702.us.archive.org/5/items/00000_202008/000000028.mp4
+
+
+#EXTINF:-1 tvg-logo="",EL VUELO
+#EXTGRP:FILMS
+https://ia803203.us.archive.org/17/items/captura-de-pantalla-2_202009/VU3L01.mp4
+
+
+#EXTINF:-1 tvg-logo="",ENREDADOS
+#EXTGRP:FILMS
+https://ia803103.us.archive.org/25/items/3NR3D4D0S2010/Enredados.2010.ENREDADOS.720p%20bak0r.mp4
+
+
+#EXTINF:-1 tvg-logo="",E.T. EL EXTRATERRESTRE
+#EXTGRP:FILMS
+https://ia802803.us.archive.org/27/items/img20200212wa0138/0054433529.mp4
+
+
+#EXTINF:-1 tvg-logo="",CONSTANTINE
+#EXTGRP:FILMS
+https://ia800900.us.archive.org/30/items/pinche1/1.mp4
+
+
+#EXTINF:-1 tvg-logo="",FROZEN 2
+#EXTGRP:FILMS
+https://ia902803.us.archive.org/27/items/0_20200218_20200218/301.mp4
