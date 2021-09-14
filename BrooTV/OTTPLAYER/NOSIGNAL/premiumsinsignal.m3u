@@ -1,0 +1,81 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTVOTT/BrooTV-ICONOS/main/BrooTV-LOGO.png",BrooTV
+#EXTGRP:INFO
+https://ia601502.us.archive.org/10/items/broo-tv-new-intro/BrooTV_NEW_intro.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTVOTT/BrooTV-ICONOS/main/BrooTV_PREMIUM.png",BrooTV | PREMIUM
+#EXTGRP:INFO
+https://ia601500.us.archive.org/18/items/broo-tv-premium-intro_202107/BrooTV_PREMIUM_intro.mp4
+
+
+#EXTINF:O,BrooTV | GOLDEN
+#EXTGRP:GOLDEN
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+
+#EXTINF:O,GOLDEN
+#EXTGRP:GOLDEN
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,GOLDEN EDGE
+#EXTGRP:GOLDEN
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,GOLDEN PLUS
+#EXTGRP:GOLDEN
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+
+
+#EXTINF:O,BrooTV | STAR PREMIUM
+#EXTGRP:STAR PREMIUM
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+
+#EXTINF:O,STAR CHANNEL
+#EXTGRP: STAR PREMIUM
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,STAR ACTION
+#EXTGRP: STAR PREMIUM
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,STAR SERIES
+#EXTGRP: STAR PREMIUM
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,STAR LIFE
+#EXTGRP: STAR PREMIUM
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,STAR HITS
+#EXTGRP: STAR PREMIUM
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,STAR CINEMA
+#EXTGRP: STAR PREMIUM
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,STAR CLASSICS
+#EXTGRP: STAR PREMIUM
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+
+
+#EXTINF:O,BrooTV | HBO
+#EXTGRP:HBO
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+
+#EXTINF:O,HBO
+#EXTGRP:HBO
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,HBO 2
+#EXTGRP:HBO
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,HBO+
+#EXTGRP:HBO
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,HBO FAMILY
+#EXTGRP:HBO
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,HBO SIGNATURE
+#EXTGRP:HBO
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,HBO MUNDI
+#EXTGRP:HBO
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,HBO POP
+#EXTGRP:HBO
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
+#EXTINF:O,HBO XTREME
+#EXTGRP:HBO
+https://ia601408.us.archive.org/0/items/broo-tv-iptv-ott-2021/BrooTV_IPTV_OTT_2021.mp4
