@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://ia801408.us.archive.org/5/items/logos_/brootv.png",BrooTV
+#EXTINF:-1 tvg-logo="https://ia801408.us.archive.org/5/items/logos_/brootv.png",BrooTV | FILMS
 #EXTGRP:INFO
 https://ia601502.us.archive.org/10/items/broo-tv-new-intro/BrooTV_NEW_intro.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/films.png",FILMS | 13 - SEPTIEMBRE - 2021
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/films.png",13 - SEPTIEMBRE - 2021
 #EXTGRP:FILMS
 https://ia601500.us.archive.org/8/items/broo-tv-channel-films/BrooTV_Channel_FILMS.mp4
 
@@ -12,6 +12,11 @@ https://ia601500.us.archive.org/8/items/broo-tv-channel-films/BrooTV_Channel_FIL
 #EXTINF:-1 tvg-logo="",EL CADÁVER DE LA NOVIA
 #EXTGRP:FILMS
 https://ia902901.us.archive.org/15/items/stop_20200308/3lc4d4v3rd3l4n0v14.mp4
+
+
+#EXTINF:-1 tvg-logo="",LAS BRUJAS
+#EXTGRP:FILMS
+http://vod.tuxchannel.tv/peliculas/720/the%20witches%202020.mkv
 
 
 #EXTINF:-1 tvg-logo="",PASANTE DE MODA
@@ -27,11 +32,6 @@ https://ia801901.us.archive.org/1/items/20200515-153508/5pjjfkh574blfd2a379kfjfh
 #EXTINF:-1 tvg-logo="",MI PRIMER AMOR
 #EXTGRP:FILMS
 http://vod.tuxchannel.tv/peliculas/720/forever%20first%20love%202020.mkv
-
-
-#EXTINF:-1 tvg-logo="",LAS BRUJAS
-#EXTGRP:FILMS
-http://vod.tuxchannel.tv/peliculas/720/the%20witches%202020.mkv
 
 
 #EXTINF:-1 tvg-logo="",SOUL
