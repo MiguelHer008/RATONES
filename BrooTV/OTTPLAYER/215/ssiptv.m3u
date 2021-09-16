@@ -59,10 +59,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=2324&format=HLSAD&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | KIDS
-#EXTGRP:KIDS
-https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
-
 #EXTINF:0,TOONCAST
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=108&format=HLSAD&f=.m3u8
@@ -101,10 +97,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=2591&format=HLSAD&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | CULTURA
-#EXTGRP:CULTURA
-https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
-
 #EXTINF:0,DISCOVERY CHANNEL
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=86&format=HLSAD&f=.m3u8
@@ -135,9 +127,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 #EXTINF:0,NAT GEO WILD
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=92&format=HLSAD&f=.m3u8
-#EXTINF:0,ANIMAL PLANET
-#EXTGRP:CULTURA
-
 #EXTINF:0,TVE
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=198&format=HLSAD&f=.m3u8
@@ -145,10 +134,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=2375&format=HLSAD&f=.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | FAMILIA
-#EXTGRP:FAMILIA
-https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png",WOW TV
 #EXTGRP:FAMILIA
@@ -212,10 +197,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=1842&format=HLSAD&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | CINE Y SERIES
-#EXTGRP:CINE Y SERIES
-https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
-
 #EXTINF:0,A3CINE
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=3112&format=HLSAD&f=.m3u8
@@ -267,30 +248,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 #EXTINF:-1 tvg-logo="https://ia801406.us.archive.org/24/items/logo_/Star_Life.png",Star Life
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=77&format=HLSAD&f=.m3u8
-#EXTINF:0,HBO
-#EXTGRP:CINE Y SERIES
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/144
-#EXTINF:0,HBO 2
-#EXTGRP:CINE Y SERIES
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/146
-#EXTINF:-1 tvg-logo="https://archive.org/download/hbo-logo_/HBO_PLUS.png",HBO+
-#EXTGRP:CINE Y SERIES
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/155
-#EXTINF:0,HBO FAMILY
-#EXTGRP:CINE Y SERIES
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/152
-#EXTINF:0,HBO SIGNATURE
-#EXTGRP:CINE Y SERIES
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/161
-#EXTINF:0,HBO MUNDI
-#EXTGRP:CINE Y SERIES
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/164
-#EXTINF:0,HBO POP
-#EXTGRP:CINE Y SERIES
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/167
-#EXTINF:0,HBO XTREME
-#EXTGRP:CINE Y SERIES
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/168
 #EXTINF:0,TCM
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=128&format=HLSAD&f=.m3u8
@@ -328,10 +285,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=1726&format=HLSAD&f=.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | MÚSICA
-#EXTGRP:MÚSICA
-https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
 #EXTINF:0,MTV
 #EXTGRP:MÚSICA
@@ -382,10 +335,6 @@ http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/1.m3u8
 #EXTGRP:MÚSICA
 http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/25.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | DEPORTES
-#EXTGRP:DEPORTES
-https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
 #EXTINF:0,ESPN
 #EXTGRP:DEPORTES
