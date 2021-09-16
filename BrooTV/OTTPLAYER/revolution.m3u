@@ -5,13 +5,13 @@
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=7&format=HLSAD&f=.m3u8
 #EXTINF:0,ADN 40
 #EXTGRP:MÉXICO
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=184&format=HLSAD&f=.m3u8
 #EXTINF:0,LAS ESTRELLAS
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=1784&format=HLSAD&f=.m3u8
 #EXTINF:0,FORO TV
 #EXTGRP:MÉXICO
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=4&format=HLSAD&f=.m3u8
 #EXTINF:0,IMAGEN TV
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=2606&format=HLSAD&f=.m3u8
@@ -38,7 +38,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=84&format=HLSAD&f=.m3u8
 #EXTINF:0,AZ CINEMA
 #EXTGRP:MÉXICO
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=1787&format=HLSAD&f=.m3u8
 #EXTINF:0,MVS TV
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=2149&format=HLSAD&f=.m3u8
@@ -50,15 +50,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=32&format=HLSAD&f=.m3u8
 #EXTINF:0,MILENIO
 #EXTGRP:MÉXICO
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=1250&format=HLSAD&f=.m3u8
 #EXTINF:0,MEXIQUENSE TV
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=44&format=HLSAD&f=.m3u8
 #EXTINF:0,TVMAS
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=2324&format=HLSAD&f=.m3u8
-#EXTINF:0,
-#EXTGRP:MÉXICO
 
 
 #EXTINF:0,TOONCAST
@@ -100,12 +98,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 #EXTINF:0,BITME
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=2591&format=HLSAD&f=.m3u8
-#EXTINF:0,
-#EXTGRP:KIDS
-
-#EXTINF:0,
-#EXTGRP:KIDS
-
 
 
 #EXTINF:0,DISCOVERY CHANNEL
@@ -147,17 +139,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 #EXTINF:0,STAR TVE
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=2375&format=HLSAD&f=.m3u8
-#EXTINF:0,
-#EXTGRP:CULTURA
-
-#EXTINF:0,
-#EXTGRP:CULTURA
-
 
 
 #EXTINF:0,WOW TV
 #EXTGRP:FAMILIA
-
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:0,TELEMUNDO INTERNACIONAL
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=85&format=HLSAD&f=.m3u8
@@ -212,166 +198,97 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 #EXTINF:0,ANTENA 3
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=199&format=HLSAD&f=.m3u8
-#EXTINF:0,HOLA TV
+#EXTINF:0,¡HOLA! TV
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=219&format=HLSAD&f=.m3u8
 #EXTINF:0,MAS CHIC
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=1842&format=HLSAD&f=.m3u8
-#EXTINF:0,
-#EXTGRP:FAMILIA
-
-#EXTINF:0,
-#EXTGRP:FAMILIA
-
-#EXTINF:0,
-#EXTGRP:FAMILIA
-
 
 
 #EXTINF:0,A3CINE
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=3112&format=HLSAD&f=.m3u8
 #EXTINF:0,A3SERIES
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=2113&format=HLSAD&f=.m3u8
 #EXTINF:0,TBS
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=81&format=HLSAD&f=.m3u8
 #EXTINF:0,DE PELÍCULA 
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=335&format=HLSAD&f=.m3u8
 #EXTINF:0,DE PELÍCULA PLUS
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=121&format=HLSAD&f=.m3u8
 #EXTINF:0,TNT
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=126&format=HLSAD&f=.m3u8
 #EXTINF:0,TNT SERIES
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=71&format=HLSAD&f=.m3u8
 #EXTINF:0,TCM
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=128&format=HLSAD&f=.m3u8
 #EXTINF:0,SPACE
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=129&format=HLSAD&f=.m3u8
 #EXTINF:0,AMC
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=131&format=HLSAD&f=.m3u8
 #EXTINF:0,STUDIO UNIVERSAL
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=132&format=HLSAD&f=.m3u8
 #EXTINF:0,WARNER
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=205&format=HLSAD&f=.m3u8
 #EXTINF:0,EUROPA EUROPA
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=136&format=HLSAD&f=.m3u8
 #EXTINF:0,FILMS & ARTS
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=137&format=HLSAD&f=.m3u8
 #EXTINF:0,FXM
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=138&format=HLSAD&f=.m3u8
 #EXTINF:0,MORBIDO
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=140&format=HLSAD&f=.m3u8
 #EXTINF:0,CINECANAL
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=149&format=HLSAD&f=.m3u8
 #EXTINF:0,CINEMAX
 #EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=158&format=HLSAD&f=.m3u8
 #EXTINF:0,PARAMOUNT CHANNEL
 #EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
-#EXTINF:0,
-#EXTGRP:CINE Y SERIES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=1726&format=HLSAD&f=.m3u8
 
 
 #EXTINF:0,MTV
 #EXTGRP:MÚSICA
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=212&format=HLSAD&f=.m3u8
 #EXTINF:0,MTV LIVE HD
 #EXTGRP:MÚSICA
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=211&format=HLSAD&f=.m3u8
 #EXTINF:0,MTV HITS
 #EXTGRP:MÚSICA
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=213&format=HLSAD&f=.m3u8
 #EXTINF:0,MTV 80s
 #EXTGRP:MÚSICA
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=214&format=HLSAD&f=.m3u8
+#EXTINF:0,MTV 00s
+#EXTGRP:MÚSICA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=334&format=HLSAD&f=.m3u8
 #EXTINF:0,BANDAMAX
 #EXTGRP:MÚSICA
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=221&format=HLSAD&f=.m3u8
 #EXTINF:0,TELEHIT
 #EXTGRP:MÚSICA
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=218&format=HLSAD&f=.m3u8
 #EXTINF:0,TELEHIT PLUS
 #EXTGRP:MÚSICA
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=220&format=HLSAD&f=.m3u8
 #EXTINF:0,Mix 24-7 Top 100
 #EXTGRP:MÚSICA
 http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/2.m3u8
@@ -396,58 +313,51 @@ http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/1.m3u8
 #EXTINF:0,Puro Rock 24-7
 #EXTGRP:MÚSICA
 http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/25.m3u8
-#EXTINF:0,VH1
-#EXTGRP:MÚSICA
-
 
 
 #EXTINF:0,ESPN
 #EXTGRP:DEPORTES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=169&format=HLSAD&f=.m3u8
 #EXTINF:0,ESPN 2
 #EXTGRP:DEPORTES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=168&format=HLSAD&f=.m3u8
 #EXTINF:0,ESPN 3
 #EXTGRP:DEPORTES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=345&format=HLSAD&f=.m3u8
 #EXTINF:0,ESPN EXTRA
 #EXTGRP:DEPORTES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=167&format=HLSAD&f=.m3u8
 #EXTINF:0,FOX SPORTS
 #EXTGRP:DEPORTES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=170&format=HLSAD&f=.m3u8
 #EXTINF:0,FOX SPORTS 2
 #EXTGRP:DEPORTES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=172&format=HLSAD&f=.m3u8
 #EXTINF:0,FOX SPORTS 3
 #EXTGRP:DEPORTES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=178&format=HLSAD&f=.m3u8
 #EXTINF:0,TUDN
 #EXTGRP:DEPORTES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=1049&format=HLSAD&f=.m3u8
 #EXTINF:0,AFIZZIONADOS
 #EXTGRP:DEPORTES
 
 #EXTINF:0,GOLF
 #EXTGRP:DEPORTES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=179&format=HLSAD&f=.m3u8
 #EXTINF:0,AYM SPORTS
 #EXTGRP:DEPORTES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=180&format=HLSAD&f=.m3u8
 #EXTINF:0,ADRENALINA SPORTS
 #EXTGRP:DEPORTES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=1799&format=HLSAD&f=.m3u8
 #EXTINF:0,TVC DEPORTES
 #EXTGRP:DEPORTES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=2157&format=HLSAD&f=.m3u8
 #EXTINF:0,CLARO SPORTS
 #EXTGRP:DEPORTES
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=2564&format=HLSAD&f=.m3u8
 #EXTINF:0,FUEL TV
 #EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=2587&format=HLSAD&f=.m3u8
 
-#EXTINF:0,
-#EXTGRP:DEPORTES
-
-#EXTINF:0,
-#EXTGRP:DEPORTES
