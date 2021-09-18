@@ -99,7 +99,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=115&format=HLSAD&f=.m3u8
 #EXTINF:0,NICK
 #EXTGRP:KIDS
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=331&format=HLS&f=.m3u8
 #EXTINF:0,NICK JR
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=117&format=HLSAD&f=.m3u8
@@ -130,6 +130,12 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 #EXTINF:0,DISCOVERY HOME & HEALTH
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=96&format=HLSAD&f=.m3u8
+#EXTINF:0,DISCOVERY ID
+#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=2376&format=HLS&f=.m3u8
+#EXTINF:0,DISCOVERY TLC
+#EXTGRO:CULTURA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=2380&format=HLS&f=.m3u8
 #EXTINF:0,DISCOVERY SCIENCE
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=98&format=HLSAD&f=.m3u8
@@ -153,7 +159,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=92&format=HLSAD&f=.m3u8
 #EXTINF:0,ANIMAL PLANET
 #EXTGRP:CULTURA
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=2378&format=HLS&f=.m3u8
 #EXTINF:0,TVE
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=198&format=HLSAD&f=.m3u8
@@ -196,9 +202,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 #EXTINF:0,UNICABLE
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=1499&format=HLSAD&f=.m3u8
-#EXTINF:0,UNIVISION
-#EXTGRP:FAMILIA
-
 #EXTINF:0,GLITZ
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=76&format=HLSAD&f=.m3u8
@@ -376,9 +379,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361
 #EXTINF:0,TUDN
 #EXTGRP:DEPORTES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=1049&format=HLSAD&f=.m3u8
-#EXTINF:0,AFIZZIONADOS
-#EXTGRP:DEPORTES
-
 #EXTINF:0,GOLF
 #EXTGRP:DEPORTES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=179&format=HLSAD&f=.m3u8
