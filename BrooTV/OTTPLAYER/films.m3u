@@ -4,32 +4,52 @@
 #EXTGRP:INFO
 https://archive.org/download/broo-tv-new-intro/BrooTV_NEW_intro.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/films.png",13 - SEPTIEMBRE - 2021
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/films.png",21 - SEPTIEMBRE - 2021
 #EXTGRP:FILMS
 https://archive.org/download/broo-tv-channel-films/BrooTV_Channel_FILMS.mp4
 
 
-#EXTINF:0,EL ESCUADRÓN SUICIDA
+#EXTINF:-1 tvg-logo="",PIXELS
+#EXTGRP:FILMS
+https://ia600901.us.archive.org/4/items/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/3.mp4
+
+
+#EXTINF:-1 tvg-logo="",UN SUEÑO POSIBLE
+#EXTGRP:FILMS
+http://player.lerload.xyz/movie/accion/Ver%20Un%20sue%C3%B1o%20posible%20(2009)%20Online%20Latino%20HD%20-%20PelisPlay.tv.mp4
+
+
+#EXTINF:-1 tvg-logo="",PRISIONERO X
+#EXTGRP:FILMS
+https://dl.dropbox.com/s/tohm2fuxz6uupxo/Prisoner%20X.mp4
+
+
+#EXTINF:-1 tvg-logo="",BODA SANGRIENTA
+#EXTGRP:FILMS
+http://tux-vod.dynu.com/peliculas/720/ready%20or%20not%202019.mkv
+
+
+#EXTINF:-1 tvg-logo="",EL ESCUADRÓN SUICIDA
 #EXTGRP:FILMS
 http://201.172.61.203:88/Peliculas/jul%20agos/The.suicide.squad.2021.mp4
 
 
-#EXTINF:0,LOS INCREÍBLES
+#EXTINF:-1 tvg-logo="",LOS INCREÍBLES
 #EXTGRP:FILMS:
 https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
 
 
-#EXTINF:0,LOS INCREÍBLES 2
+#EXTINF:-1 tvg-logo="",LOS INCREÍBLES 2
 #EXTGRP:FILMS
 https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.mp4
 
 
-#EXTINF:0,TED
+#EXTINF:-1 tvg-logo="",TED
 #EXTGRP:FILMS
 https://archive.org/download/10010010/10010010.mp4
 
 
-#EXTINF:0,TED 2
+#EXTINF:-1 tvg-logo="",TED 2
 #EXTGRP:FILMS
 http://archive.org/download/PaqueteClinico1/Ted2PeliculaCompletaEnEspaolLatino-Youtube61465464645.mp4
 
