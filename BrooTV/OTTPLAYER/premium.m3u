@@ -15,16 +15,14 @@ https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
 #EXTINF:0,GOLDEN
 #EXTGRP:GOLDEN
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=123&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=123&format=HLS&f=.m3u8
 #EXTINF:0,GOLDEN EDGE
 #EXTGRP:GOLDEN
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=124&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=124&format=HLS&f=.m3u8
 #EXTINF:0,GOLDEN PLUS
 #EXTGRP:GOLDEN
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=122&format=HLSAD&f=.m3u8
-#EXTINF:0,GOLDEN PREMIER
-#EXTGRP:GOLDEN
-http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/47696
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=122&format=HLS&f=.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://ia801408.us.archive.org/5/items/logos_/m3u.png",BrooTV | STAR PREMIUM
@@ -33,31 +31,25 @@ https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
 #EXTINF:0,STAR CHANNEL
 #EXTGRP:STAR PREMIUM
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=201&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=46&format=HLS&f=.m3u8
 #EXTINF:0,STAR HITS
 #EXTGRP:STAR PREMIUM
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=146&format=HLSAD&f=.m3u8
-#EXTINF:0,STAR CINEMA
-#EXTGRP:STAR PREMIUM
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=1729&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=1729&format=HLS&f=.m3u8
 #EXTINF:0,STAR SERIES
 #EXTGRP:STAR PREMIUM
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=139&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=139&format=HLS&f=.m3u8
 #EXTINF:0,STAR ACTION
 #EXTGRP:STAR PREMIUM
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=336&format=HLSAD&f=.m3u8
-#EXTINF:0,STAR COMEDY
-#EXTGRP:STAR PREMIUM
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=1725&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=336&format=HLS&f=.m3u8
 #EXTINF:0,STAR FUN
 #EXTGRP:STAR PREMIUM
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=1724&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=1724&format=HLS&f=.m3u8
 #EXTINF:0,STAR CLASSICS
 #EXTGRP:STAR PREMIUM
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=1732&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=1732&format=HLS&f=.m3u8
 #EXTINF:0,STAR LIFE
 #EXTGRP:STAR PREMIUM
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=77&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=77&format=HLS&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ia801408.us.archive.org/5/items/logos_/m3u.png",BrooTV | HBO
