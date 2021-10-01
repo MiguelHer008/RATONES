@@ -27,6 +27,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vi
 #EXTINF:0,A+
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=2348&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-logo="https://canal7slp.tv/2020/wp-content/uploads/2019/06/favicon-300x300.png",Canal 7
+#EXTGRP:MÉXICO
+https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_202109/ONCE.png",Once
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=25&format=HLS&f=.m3u8
