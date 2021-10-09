@@ -9,7 +9,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:0,LAS ESTRELLAS
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2362&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_202109/FORO_TV.png",Foro TV
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/FORO_TV.png",Foro TV
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=700&format=HLS&f=.m3u8
 #EXTINF:0,IMAGEN TV
@@ -18,7 +18,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:0,CANAL 5
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2218&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_202109/NU9VE.png",NU9VE
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/NU9VE.png",NU9VE
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=24&format=HLS&f=.m3u8
 #EXTINF:0,AZTECA 7
@@ -27,10 +27,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:0,A+
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2348&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://canal7slp.tv/2020/wp-content/uploads/2019/06/favicon-300x300.png",Canal 7-
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/CANAL_7.png",Canal 7-
 #EXTGRP:MÉXICO
 https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_202109/ONCE.png",Once
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/ONCE.png",Once
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=25&format=HLS&f=.m3u8
 #EXTINF:0,AZ CLIC
@@ -45,7 +45,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:0,AZ CINEMA
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1787&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_202109/MILENIO.png",Milenio
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/MILENIO.png",Milenio
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1252&format=HLS&f=.m3u8
 #EXTINF:0,MEXIQUENSE TV
