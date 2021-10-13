@@ -91,43 +91,43 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=112&format=HLS&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="hhh",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/DISCOVERY_CHANNEL.png",DISCOVERY CHANNEL
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=113&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",DISCOVERY THEATER HD
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/DISCOVERY_THEATER.png",DISCOVERY THEATER HD
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=95&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",DISCOVERY HOME & HEALTH
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/DISCOVERY_H%26H.png",DISCOVERY HOME & HEALTH
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=96&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",DISCOVERY ID
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/DISCOVERY_ID.png",DISCOVERY ID
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2376&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",DISCOVERY TLC
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/DISCOVERY_TLC.png",DISCOVERY TLC
 #EXTGRO:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2380&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/DISCOVERY_SCIENCE.png",DISCOVERY SCIENCE
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=98&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",DISCOVERY WORLD
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/DISCOVERY_WORLD.png",DISCOVERY WORLD
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=101&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/DISCOVERY_TURBO.png",DISCOVERY TURBO
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2379&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",EL GARAGE TV
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/GARAGE_TV.png",EL GARAGE TV
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=75&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",HISTORY
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/HISTORY.png",HISTORY
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=89&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",NAT GEO
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/NAT_GEO.png",NAT GEO
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=91&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/NAT_GEO_WILD.png",NAT GEO WILD
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=92&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/ANIMAL_PLANET.png",ANIMAL PLANET
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2378&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_202109/STAR_TVE.png",STAR TVE
