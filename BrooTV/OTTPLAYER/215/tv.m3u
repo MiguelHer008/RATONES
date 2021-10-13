@@ -12,10 +12,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/FORO_TV.png",FORO TV
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=700&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/IMAGEN_TV.png",IMAGEN TV
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALogo-Imagen-TV-MX.png&psig=AOvVaw0JngxWit0BBQ66UNqqLknb&ust=1634235646418000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCOje262AyPMCFQAAAAAdAAAAABAI",IMAGEN TV
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2298&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/CANAL_5.png",CANAL 5
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnocable.org%2Ftv-listings%2Fzip%2F92232-calexico-ca%2F&psig=AOvVaw2Eoc_lnLZ-4U8_6byvYXg7&ust=1634235956927000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCLjv7MCByPMCFQAAAAAdAAAAABAO",CANAL 5
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2218&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/NU9VE.png",NU9VE
@@ -138,7 +138,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/WOW_TV.png",WOW TV
 #EXTGRP:FAMILIA
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/TELEMUNDO_INTERNACIONAL.png",TELEMUNDO INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FTelemundo_Internacional&psig=AOvVaw22bnbpQh5JX6hNYaayucrM&ust=1634236207569000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCOiakrmCyPMCFQAAAAAdAAAAABAD",TELEMUNDO INTERNACIONAL
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=85&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/SONY.png",SONY
@@ -150,7 +150,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/UNIVERSAL.png",UNIVERSAL
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=57&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/SyFy.png",SYFY
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nbc.com%2Fshows%2Fnbc-universo%2Fpopular&psig=AOvVaw37VnTsrTF5-FLQlDvckdru&ust=1634236266222000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCOjWqtSCyPMCFQAAAAAdAAAAABAI",SYFY
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=59&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/FX.png",FX
@@ -278,7 +278,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_2/AMC.png",AMC
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=328&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_2/STUDIO_UNIVERSAL.png",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALogo_Studio_Universal.svg&psig=AOvVaw1KqEpOdfg5IG7xcB6t9vOQ&ust=1634236308681000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCPDCyeyCyPMCFQAAAAAdAAAAABAD",STUDIO UNIVERSAL
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=132&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_2/WARNER.png",WARNER
