@@ -156,7 +156,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/UNIVERSAL.png",UNIVERSAL
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=57&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/SYFY.png",SYFY
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/SYFY.png",SyFy
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=59&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/FX.png",FX
@@ -272,7 +272,7 @@ http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/164
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_POP.png",HBO POP
 #EXTGRP:CINE Y SERIES
 http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/167
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_EXTREME.png",HBO XTREME
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_XTREME.png",HBO XTREME
 #EXTGRP:CINE Y SERIES
 http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/168
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_2/TCM.png",TCM
@@ -305,7 +305,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_2/CINEMAX.png",CINEMAX
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=158&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_2/PARAMOUNT_CHANNEL.png",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_2/PARAMOUNT.png",PARAMOUNT CHANNEL
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1726&format=HLS&f=.m3u8
 
