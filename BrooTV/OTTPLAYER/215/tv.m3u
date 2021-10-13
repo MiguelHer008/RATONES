@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/AZTECA_UNO.png",AZTECA UNO
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=7&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/ADN_40.png",ADN 40
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/ADN40.png",ADN 40
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=184&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/LAS_ESTRELLAS.png",LAS ESTRELLAS
@@ -53,40 +53,40 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=44&format=HLS&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="hhh",TOONCAST
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/TOONCAST.png",TOONCAST
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=108&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/DISCOVERY_KIDS.png",DISCOVERY KIDS
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=109&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",NAT GEO KIDS
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/NAT_GEO_KIDS.png",NAT GEO KIDS
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2373&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/DISNEY_CHANNEL.png",DISNEY CHANNEL
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=113&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",DISNEY XD
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/DISNEY_XD.png",DISNEY XD
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=111&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/DISNEY_JUNIOR.png",DISNEY JUNIOR
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=118&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",BOOMERANG
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/BOOMERANG.png",BOOMERANG
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=115&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",NICK
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/NICKELODEON.png",NICKELODEON
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=331&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",NICK JR
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/NICK_JR.png",NICK JR
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=117&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",NICKMUSIC
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/NICKMUSIC.png",NICKMUSIC
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1708&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",TEENNICK
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/TEENNICK.png",TEENNICK
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2147&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="hhh",CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/CARTOON_NETWORK.png",CARTOON NETWORK
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=112&format=HLS&f=.m3u8
 
