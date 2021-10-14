@@ -165,6 +165,12 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/UNICABLE.png",UNICABLE
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1499&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-logo="",UNIVISION
+#EXTGRP:FAMILIA
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/51828
+#EXTINF:-1 tvg-logo="",UNIVISION TLNOVELAS
+#EXTGRP:FAMILIA
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/51816
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/GLITZ.png",GLITZ
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=76&format=HLS&f=.m3u8
@@ -236,6 +242,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_star_premium/STAR_ACTION.png",STAR ACTION
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=336&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-logo="",STAR COMEDY
+#EXTGRP:CINE Y SERIES
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/121
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_star_premium/STAR_FUN.png",STAR FUN
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1724&format=HLS&f=.m3u8
@@ -351,9 +360,24 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes/FOX_SPORTS_3.png",FOX SPORTS 3
 #EXTGRP:DEPORTES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=178&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-logo="",FOX SPORTS PREMIUM
+#EXTGRP:DEPORTES
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/37223
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes/TUDN.png",TUDN
 #EXTGRP:DEPORTES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=174&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-logo="",DIRECTV SPORTS
+#EXTGRP:DEPORTES
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/37948
+#EXTINF:-1 tvg-logo="",DIRECTV SPORTS 2
+#EXTGRP:DEPORTES
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/37947
+#EXTINF:-1 tvg-logo="",DIRECTV SPORTS+
+#EXTGRP:DEPORTES
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/37803
+#EXTINF:-1 tvg-logo="",TNT SPORTS
+#EXTGRP:DEPORTES
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/37232
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes/GOLF.png",GOLF
 #EXTGRP:DEPORTES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=179&format=HLS&f=.m3u8
