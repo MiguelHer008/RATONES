@@ -8,10 +8,40 @@ https://archive.org/download/broo-tv-new-intro/BrooTV_NEW_intro.mp4
 #EXTGRP:FILMS
 https://archive.org/download/broo-tv-channel-films/BrooTV_Channel_FILMS.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 9/10/2021
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 23/10/2021
 #EXTGRP:INFO
 https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
+
+
+#EXTINF:-1 tvg-logo="",SERPIENTE DE CASCABEL
+#EXTGRP:FILMS
+https://dl.dropboxusercontent.com/s/qqg2rrxcxc2spff/SalynPM-SPM2p5w.mp4?dl=0
+
+
+#EXTINF:-1 tvg-logo="",FRANCOTIRADOR
+#EXTGRP:FILMS
+https://archive.org/download/11.-2014-hd-dual-lat.c_202005/American.sniper.2014-hd-dual-lat.c.mp4
+
+
+#EXTINF:-1 tvg-logo="",DEJAME ENTRAR
+#EXTGRP:FILMS
+http://tux-vod.dynu.com/peliculas/720/dejame%20entrar.mkv
+
+
+#EXTINF:-1 tvg-logo="",A.X.L
+#EXTGRP:FILMS
+https://archive.org/download/ax_20200528/ax.mp4
+
+
+#EXTINF:-1 tvg-logo="",AVA
+#EXTGRP:FILMS
+https://archive.org/download/manjaro-linux/Ava%20%282020%29.mp4
+
+
+#EXTINF:-1 tvg-logo="",LEGO LA PELICULA
+#EXTGRP:FILMS
+https://archive.org/download/l-360/L360.mp4
 
 
 #EXTINF:-1 tvg-logo="",UNO DE NOSOTROS
