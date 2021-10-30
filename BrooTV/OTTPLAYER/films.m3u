@@ -4,14 +4,64 @@
 #EXTGRP:INFO
 https://archive.org/download/broo-tv-new-intro/BrooTV_NEW_intro.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/films.png", BrooTV | FILMS
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/films.png", BrooTV | HAPPY HALLOWEEN
 #EXTGRP:FILMS
 https://archive.org/download/broo-tv-channel-films/BrooTV_Channel_FILMS.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 24/10/2021
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 30/10/2021
 #EXTGRP:INFO
 https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
+
+
+#EXTINF:-1 tvg-logo="",COCO
+#EXTGRP:FILMS
+http://dnsplay.xyz:80/movie/ivbiqvof/FcVSlihK/250162.mkv
+
+
+#EXTINF:-1 tvg-logo="",CHUCKY 
+#EXTGRP:FILMS
+http://dnsplay.xyz:80/movie/ivbiqvof/FcVSlihK/248665.mkv
+
+
+#EXTINF:-1 tvg-logo="",CHUCKY 2
+#EXTGRP:FILMS
+http://dnsplay.xyz:80/movie/ivbiqvof/FcVSlihK/248666.mkv
+
+
+#EXTINF:-1 tvg-logo="",CHUCKY 3
+#EXTGRP:FILMS
+http://dnsplay.xyz:80/movie/ivbiqvof/FcVSlihK/248667.mkv
+
+
+#EXTINF:-1 tvg-logo="",LA NOVIA DE CHUCKY
+#EXTGRP:FILMS
+http://dnsplay.xyz:80/movie/ivbiqvof/FcVSlihK/248668.mkv
+
+
+#EXTINF:-1 tvg-logo="",EL CONJURO
+#EXTGRP:FILMS
+http://dnsplay.xyz:80/movie/ivbiqvof/FcVSlihK/250028.mkv
+
+
+#EXTINF:-1 tvg-logo="",EL CONJURO 2
+#EXTGRP:FILMS
+http://dnsplay.xyz:80/movie/ivbiqvof/FcVSlihK/250030.mkv
+
+
+#EXTINF:-1 tvg-logo="",EL CONJURO 3
+#EXTGRP:FILMS
+http://201.172.61.203:88/Peliculas/mkv/El%20Conjuro%203-%20El%20diablo%20me%20oblig%c3%b3%20a%20hacerlo%20(2021).mp4
+
+
+#EXTINF:-1 tvg-logo="",LA MONJA
+#EXTGRP:FILMS
+https://dl.dropboxusercontent.com/s/hywnw4dpw1wq2xy/SalynPM-L.M.mp4?dl=0
+
+
+#EXTINF:-1 tvg-logo="",EL HALLOWEEN DE HUBIE
+#EXTGRP:FILMS
+http://dnsplay.xyz:80/movie/ivbiqvof/FcVSlihK/248104.mkv
 
 
 #EXTINF:-1 tvg-logo="",SERPIENTE DE CASCABEL
@@ -217,11 +267,6 @@ https://ia601402.us.archive.org/21/items/1e08_20191210/f163.mp4
 #EXTINF:-1 tvg-logo="",SPACE JAM: UNA NUEVA ERA
 #EXTGRP:FILMS
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60361.mkv
-
-
-#EXTINF:-1 tvg-logo="",LA MONJA
-#EXTGRP:FILMS
-https://dl.dropboxusercontent.com/s/hywnw4dpw1wq2xy/SalynPM-L.M.mp4?dl=0
 
 
 #EXTINF:-1 tvg-logo="",UN LUGAR EN SILENCIO
