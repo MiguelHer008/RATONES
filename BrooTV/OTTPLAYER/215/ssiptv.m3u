@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB1LbmwjBziWtCrc8R34ayJu2T-WZMaYRxXA&usqp=CAU",SPIDERMAN 3
-#EXTGRP:PELÍCULA
-https://archive.org/download/valores_202103/valor/valores.mp4
-
 
 #EXTINF:0,AZTECA UNO
 #EXTGRP:MÉXICO
