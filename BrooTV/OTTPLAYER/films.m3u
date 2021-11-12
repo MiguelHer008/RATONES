@@ -12,7 +12,9 @@ https://archive.org/download/broo-tv-channel-films/BrooTV_Channel_FILMS.mp4
 #EXTGRP:INFO
 https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
-
+#EXTINF:-1 tvg-logo="",AMOR DE CALENDARIO 2
+#EXTGRP:FILMS
+https://archive.org/download/videoplayback30_20201103/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback30.mkv
 
 #EXTINF:-1 tvg-logo="",AMOR DE CALENDARIO
 #EXTGRP:FILMS
