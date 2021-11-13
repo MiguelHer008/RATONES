@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="LAS.ESTRELLAS">
+    <display-name lang="en">LAS ESTRELLAS</display-name>
+    <url>https://www.gatotv.com/</url>
+  </channel>
+  <channel id="A&E">
+    <display-name lang="en">A&E</display-name>
+    <url>https://www.gatotv.com/canal/a_y_e_mexico</url>
+     <date>2005</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+</tv>
