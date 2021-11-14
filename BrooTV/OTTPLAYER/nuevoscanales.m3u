@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:0,LAS ESTRELLAS -1 HORA
+#EXTGRP:MÉXICO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2037&format=HLS&f=.m3u8
+
+#EXTINF:0,LAS ESTRELLAS -2 HORAS
+#EXTGRP:MÉXICO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2264&format=HLS&f=.m3u8
+
+#EXTINF:0",STAR COMEDY
+#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1725&format=HLS&f=.m3u8
