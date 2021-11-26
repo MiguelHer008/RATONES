@@ -13,6 +13,11 @@ https://archive.org/download/broo-tv-channel-films/BrooTV_Channel_FILMS.mp4
 https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
 
+#EXTINF:-1 tvg-logo="",DIABOLICA TENTACION
+#EXTGRP:FILMS
+https://archive.org/download/diabolicatentacion/Diabolica%20tentacion.mp4
+
+
 #EXTINF:-1 tvg-logo="",EL EXTRAÑO MUNDO DE JACK
 #EXTGRP:FILMS
 http://archive.org/download/313-x-7-r-4n-0-mun-4043-j-4-ck/313X7R4%C3%910MUN4043J4CK.mp4
