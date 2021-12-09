@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/brootv.png",BrooTV
+#EXTINF:-1 tvg-logo="https://archive.org/download/brootv_dorado/BrooTV_LE_ANIVERSARIO.png",BrooTV 1° ANIVERSARIO
 #EXTGRP:INFO
-https://archive.org/download/broo-tv-new-intro/BrooTV_NEW_intro.mp4
+https://archive.org/download/brootv_aniversario/BROOTV_1_ANIVERSARIO.mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTVOTT/BrooTV-ICONOS/main/BrooTV_TV_PREMIUM.png",BrooTV | TV PREMIUM
 #EXTGRP:INFO
 https://ia601505.us.archive.org/0/items/broo-tv-tv-premium-intro_20210722/BrooTV_TV_PREMIUM_intro.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 14/11/2021
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 8/12/2021
 #EXTGRP:INFO
 https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
@@ -48,7 +48,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:0,A+
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2348&format=HLS&f=.m3u8
-#EXTINF:0,Once
+#EXTINF:0,ONCE
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=25&format=HLS&f=.m3u8
 #EXTINF:0,AZ CLIC
@@ -63,7 +63,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:0,AZ CINEMA
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1787&format=HLS&f=.m3u8
-#EXTINF:0,Milenio
+#EXTINF:0,MILENIO
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1252&format=HLS&f=.m3u8
 #EXTINF:0,MEXIQUENSE TV
@@ -342,6 +342,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:0,STAR HITS
 #EXTGRP:PREMIUM
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=146&format=HLSAD&f=.m3u8
+#EXTINF:0",STAR COMEDY
+#EXTGRP:PREMIUM
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1725&format=HLS&f=.m3u8
 #EXTINF:0,STAR FUN
 #EXTGRP:PREMIUM
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1724&format=HLS&f=.m3u8
@@ -359,7 +362,7 @@ https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
 #EXTINF:0,HBO
 #EXTGRP:PREMIUM
-https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
+https://archive.org/download/brootv_aniversario/BROOTV_1_ANIVERSARIO.mp4
 #EXTINF:0,HBO 2
 #EXTGRP:PREMIUM
 https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
