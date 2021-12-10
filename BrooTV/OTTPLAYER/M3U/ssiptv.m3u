@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/brootv.png",BrooTV
+#EXTINF:-1 tvg-logo="https://archive.org/download/brootv_dorado/BrooTV_LE_ANIVERSARIO.png",BrooTV 1° ANIVERSARIO
 #EXTGRP:INFO
-https://archive.org/download/broo-tv-new-intro/BrooTV_NEW_intro.mp4
+https://archive.org/download/brootv_aniversario/BROOTV_1_ANIVERSARIO.mp4
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/logos_/television.png",BrooTV | SS IPTV
 #EXTGRP:INFO
 https://archive.org/download/broo-tv-television-intro_20210722/BrooTV_TELEVISION_intro.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 14/11/2021
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 9/12/2021
 #EXTGRP:INFO
 https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
@@ -26,6 +26,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/LAS_ESTRELLAS.png",LAS ESTRELLAS
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2362&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/LAS_ESTRELLAS.png",LAS ESTRELLAS -1 HORA
+#EXTGRP:MÉXICO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2037&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/FORO_TV.png",Foro TV
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=700&format=HLS&f=.m3u8
@@ -65,6 +68,12 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:0,MEXIQUENSE TV
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=44&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/MVS_TV.png",MVS TV
+#EXTGRP:MÉXICO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2149&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/TVC.png",TVC
+#EXTGRP:MÉXICO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2156&format=HLSAD&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | KIDS
@@ -206,6 +215,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:0,EL GOURMET
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=74&format=HLS&f=.m3u8
+#EXTINF:0,FOOD NETWORK
+#EXTGRP:FAMILIA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2145&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/DISTRITO_COMEDIA.png",DISTRITO COMEDIA
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=78&format=HLS&f=.m3u8
@@ -278,12 +290,12 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_star_premium/STAR_ACTION.png",Star Action
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=336&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_star_premium/STAR_FUN.png",Star Fun
-#EXTGRP:CINE Y SERIES
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1724&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_star_premium/STAR_COMEDY.png",Star Comedy
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1725&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_star_premium/STAR_FUN.png",Star Fun
+#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1724&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_star_premium/STAR_CLASSICS.png",Star Classics
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1732&format=HLS&f=.m3u8
