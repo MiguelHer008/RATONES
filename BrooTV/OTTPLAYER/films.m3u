@@ -1,16 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/brootv.png",BrooTV
+#EXTINF:-1 tvg-logo="https://archive.org/download/brootv_dorado/BrooTV_LE_ANIVERSARIO.png",BrooTV 1° ANIVERSARIO
 #EXTGRP:INFO
-https://archive.org/download/broo-tv-new-intro/BrooTV_NEW_intro.mp4
+https://archive.org/download/brootv_aniversario/BROOTV_1_ANIVERSARIO.mp4
 
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/films.png", BrooTV | FILMS
 #EXTGRP:FILMS
 https://archive.org/download/broo-tv-channel-films/BrooTV_Channel_FILMS.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 29/11/2021
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 9/12/2021
 #EXTGRP:INFO
 https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
+
+#EXTINF:-1 tvg-logo="",MADAGASCAR
+#EXTGRP:FILMS
+http://archive.org/download/img20200123224336/65U16i3aaX6i.mp4
+
+#EXTINF:-1 tvg-logo="",MADAGASCAR 2
+#EXTGRP:FILMS
+http://archive.org/download/img20200222wa0002/54n53b45714n.mp4
+
+#EXTINF:-1 tvg-logo="",MADAGASCAR 3
+#EXTGRP:FILMS
+http://archive.org/download/img20200223153056_202002/5u54n4p3r3z.mp4
 
 
 #EXTINF:-1 tvg-logo="",LA PRINCESA CISNE: UNA BODA REAL
