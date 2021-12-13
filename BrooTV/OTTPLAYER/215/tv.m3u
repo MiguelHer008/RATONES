@@ -12,7 +12,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/FORO_TV.png",FORO TV
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=700&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_ott-news/IMAGEN_TV.png",IMAGEN TV
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/IMAGEN_TV.png",IMAGEN TV
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2298&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_ott-news/CANAL_5.png",CANAL 5
@@ -265,7 +265,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_2/AMC.png",AMC
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=328&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_ott-news/STUDIO_UNIVERSAL.png",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_2/STUDIO_UNIVERSAL.png",STUDIO UNIVERSAL
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=132&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_2/WARNER.png",WARNER
