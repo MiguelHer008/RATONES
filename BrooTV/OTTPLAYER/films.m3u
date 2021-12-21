@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/brootv_dorado/BrooTV_LE_ANIVERSARIO.png",BrooTV
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/brootv.png",BrooTV
 #EXTGRP:INFO
 https://archive.org/download/broo-tv-new-intro/BrooTV_NEW_intro.mp4
 
