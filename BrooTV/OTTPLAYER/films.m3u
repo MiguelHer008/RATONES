@@ -1,24 +1,47 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/brootv_dorado/BrooTV_LE_ANIVERSARIO.png",BrooTV 1° ANIVERSARIO
+#EXTINF:-1 tvg-logo="https://archive.org/download/brootv_dorado/BrooTV_LE_ANIVERSARIO.png",BrooTV
 #EXTGRP:INFO
-https://archive.org/download/brootv_aniversario/BROOTV_1_ANIVERSARIO.mp4
+https://archive.org/download/broo-tv-new-intro/BrooTV_NEW_intro.mp4
 
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/films.png", BrooTV | FILMS
 #EXTGRP:FILMS
 https://archive.org/download/broo-tv-channel-films/BrooTV_Channel_FILMS.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 9/12/2021
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 20/12/2021
 #EXTGRP:INFO
 https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
+
+
+#EXTINF:-1 tvg-logo="",MI POBRE ANGELITO
+#EXTGRP:FILMS
+https://archive.org/download/mipobreangelito2_201911/Mi%20Pobre%20Angelito%201.mp4
+
+
+#EXTINF:-1 tvg-logo="",MI POBRE ANGELITO 2: PÉRDIDO EN NUEVA YORK
+#EXTGRP:FILMS
+https://archive.org/download/mipobreangelito2_201911/mi%20pobre%20angelito%202.mp4
+
+
+#EXTINF:-1 tvg-logo="",MI POBRE ANGELITO 3
+#EXTGRP:FILMS
+https://archive.org/download/mipobreangelito2_201911/mi%20pobre%20angelito%203.mp4
+
+
+#EXTINF:-1 tvg-logo="",UN PADRE POR NAVIDAD
+#EXTGRP:FILMS
+http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/67207.mkv
+
 
 #EXTINF:-1 tvg-logo="",MADAGASCAR
 #EXTGRP:FILMS
 http://archive.org/download/img20200123224336/65U16i3aaX6i.mp4
 
+
 #EXTINF:-1 tvg-logo="",MADAGASCAR 2
 #EXTGRP:FILMS
 http://archive.org/download/img20200222wa0002/54n53b45714n.mp4
+
 
 #EXTINF:-1 tvg-logo="",MADAGASCAR 3
 #EXTGRP:FILMS
