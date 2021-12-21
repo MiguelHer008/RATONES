@@ -13,6 +13,16 @@ https://archive.org/download/broo-tv-channel-films/BrooTV_Channel_FILMS.mp4
 https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
 
+#EXTINF:-1 tvg-logo="",EL GRINCH (2018)
+#EXTGRP:FILMS
+http://archive.org/download/AnimalesFantsticos20182564564445646/El%20Grinch%20%282018%296464645411.mp4
+
+
+#EXTINF:-1 tvg-logo="",EL GRINCH (2000)
+#EXTGRP:FILMS
+https://dl.dropboxusercontent.com/s/vk2qc7jbnmzkcp8/SalynPM-Grinch.2000.mp4?dl=0
+
+
 #EXTINF:-1 tvg-logo="",MI POBRE ANGELITO
 #EXTGRP:FILMS
 https://archive.org/download/mipobreangelito2_201911/Mi%20Pobre%20Angelito%201.mp4
