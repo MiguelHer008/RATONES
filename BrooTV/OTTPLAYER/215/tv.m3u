@@ -140,7 +140,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/WOW_TV.png",WOW TV
 #EXTGRP:FAMILIA
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_ott-news/TELEMUNDO_INTERNACIONAL.png",TELEMUNDO INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_ott-news/TELEMUNDO_INTERNACIONAL.png",TELEMUNDO
 #EXTGRP:FAMILIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=85&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia/SONY.png",SONY
