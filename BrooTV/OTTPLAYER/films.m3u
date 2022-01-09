@@ -8,9 +8,24 @@ https://archive.org/download/broo-tv-new-intro/BrooTV_NEW_intro.mp4
 #EXTGRP:FILMS
 https://archive.org/download/broo-tv-channel-films/BrooTV_Channel_FILMS.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 21/12/2021
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",UPDATED 09/01/2022
 #EXTGRP:INFO
 https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
+
+
+#EXTINF:-1 tvg-logo="",VIRAL
+#EXTGRP:FILMS
+http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/65679.mkv
+
+
+#EXTINF:-1 tvg-logo="",EL AÑO DE LA FURIA
+#EXTGRP:FILMS
+http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/65476.mkv
+
+
+#EXTINF:-1 tvg-logo="",LA RAZON DE ESTAR CONTIGO
+#EXTGRP:FILMS
+http://ultra-premium-pro.xyz:8090/movie/VSGMEGA22/vopJide2U2/1731.mkv
 
 
 #EXTINF:-1 tvg-logo="",EL GRINCH (2018)
