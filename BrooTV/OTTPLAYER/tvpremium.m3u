@@ -413,30 +413,29 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 #EXTINF:0,TELEHIT PLUS
 #EXTGRP:MÚSICA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=220&format=HLS&f=.m3u8
-#EXTINF:0,Mix 24-7 Top 100
+#EXTINF:0,TH GLOBAL HITS
 #EXTGRP:MÚSICA
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/2.m3u8
-#EXTINF:0,Mix 24-7 Retro
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/52637
+#EXTINF:0,TH
 #EXTGRP:MÚSICA
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/4.m3u8
-#EXTINF:0,Mix 24-7 Tropical
+
+#EXTINF:0,TH
 #EXTGRP:MÚSICA
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/3.m3u8
-#EXTINF:0,Mix 24-7 Global Hits
+
+#EXTINF:0,TH
 #EXTGRP:MÚSICA
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/5.m3u8
-#EXTINF:0,Mix 24-7 VdjMix Pop
+
+#EXTINF:0,TH
 #EXTGRP:MÚSICA
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/6.m3u8
-#EXTINF:0,Mix 24-7 Conciertos
+
+#EXTINF:0,TH
 #EXTGRP:MÚSICA
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/7.m3u8
-#EXTINF:0,Mix 24-7 Vdj Retro
+
+#EXTINF:0,TH
 #EXTGRP:MÚSICA
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/1.m3u8
-#EXTINF:0,Puro Rock 24-7
+
+#EXTINF:0,TH
 #EXTGRP:MÚSICA
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/25.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/5/items/logos_/m3u.png",BrooTV | DEPORTES
