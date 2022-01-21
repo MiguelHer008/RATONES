@@ -29,6 +29,9 @@ http://1581.f5.si:8000/asr1969/WU4C7AJ/3908
 #EXTINF:-1 group-title="Lista 01", 06 | TNT SPORTS FHD 
 http://1581.f5.si:8000/asr1969/WU4C7AJ/3528 
 
-#EXTINF:-1 group-title="Lista 01", 07 | TNT SPORTS UHD 
+#EXTINF:-1 group-title="Lista 01", 07 | TNT SPORTS 3
 http://1581.f5.si:8000/asr1969/WU4C7AJ/3530
+
+#EXTINF:-1 group-title="Lista 01", 22 | AXN
+http://1581.f5.si:8000/asr1969/WU4C7AJ/2801
 
