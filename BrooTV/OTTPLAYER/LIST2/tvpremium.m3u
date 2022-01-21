@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/brootv.png",BrooTV
+#EXTGRP:INFO
+https://archive.org/download/broo-tv-new-intro/BrooTV_NEW_intro.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTVOTT/BrooTV-ICONOS/main/BrooTV_TV_PREMIUM.png",BrooTV | TV PREMIUM
+#EXTGRP:INFO
+https://archive.org/download/broo-tv-tv-premium-intro_20210722/BrooTV_TV_PREMIUM_intro.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/m3u.png",UPDATED 21/01/2022
+#EXTGRP:INFO
+https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/m3u.png",BrooTV | MÉXICO
+#EXTGRP:MÉXICO
+https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
+
 #EXTINF:0,AZTECA UNO
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=7&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -9,6 +27,9 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=184&f=HLSAD&s=hkc26at
 #EXTINF:0,LAS ESTRELLAS
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2362&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:0,LAS ESTRELLAS -1
+#EXTGRP:MÉXICO
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2037&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:0,FORO TV
 #EXTGRP:MÉXICO
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=700&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -56,6 +77,9 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2149&f=HLSAD&s=hkc26a
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2156&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/m3u.png",BrooTV | KIDS
+#EXTGRP:KIDS
+https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
 #EXTINF:0,TOONCAST
 #EXTGRP:KIDS
@@ -97,6 +121,10 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=112&f=HLSAD&s=hkc26at
 #EXTGRP:KIDS
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2591&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/m3u.png",BrooTV | CULTURA
+#EXTGRP:CULTURA
+https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
 #EXTINF:0,DISCOVERY CHANNEL
 #EXTGRP:CULTURA
@@ -141,6 +169,10 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2378&f=HLSAD&s=hkc26a
 #EXTGRP:CULTURA
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2375&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/m3u.png",BrooTV | FAMILIA
+#EXTGRP:FAMILIA
+https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
 #EXTINF:0,WOW TV
 #EXTGRP:FAMILIA
@@ -207,6 +239,10 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&s=hkc26at
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=1842&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/m3u.png",BrooTV | CINE Y SERIES
+#EXTGRP:CINE Y SERIES
+https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
+
 #EXTINF:0,A3CINE
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=3112&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -228,42 +264,6 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&s=hkc26at
 #EXTINF:0,TNT SERIES
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=71&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,GOLDEN
-#EXTGRP:CINE Y SERIES
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=123&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,GOLDEN EDGE
-#EXTGRP:CINE Y SERIES
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=124&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,GOLDEN PLUS
-#EXTGRP:CINE Y SERIES
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=122&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,STAR CHANNEL
-#EXTGRP:CINE Y SERIES
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=46&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,STAR ACTION
-#EXTGRP:CINE Y SERIES
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=336&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,STAR CINEMA
-#EXTGRP:CINE Y SERIES
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=1729&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,STAR SERIES
-#EXTGRP:CINE Y SERIES
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=139&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,STAR HITS
-#EXTGRP:CINE Y SERIES
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=146&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,STAR COMEDY
-#EXTGRP:CINE Y SERIES
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=1725&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,STAR FUN
-#EXTGRP:CINE Y SERIES
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=1724&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,STAR CLASSICS
-#EXTGRP:CINE Y SERIES
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=1732&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:0,STAR LIFE
-#EXTGRP:CINE Y SERIES
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=77&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:0,TCM
 #EXTGRP:CINE Y SERIES
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=128&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -302,6 +302,93 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=158&f=HLSAD&s=hkc26at
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/premium.png",BrooTV | PREMIUM
+#EXTGRP:PREMIUM
+https://archive.org/download/broo-tv-premium-intro_202107/BrooTV_PREMIUM_intro.mp4
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/m3u.png",BrooTV | GOLDEN
+#EXTGRP:PREMIUM
+https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
+
+#EXTINF:0,GOLDEN
+#EXTGRP: PREMIUM
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=123&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:0,GOLDEN EDGE
+#EXTGRP: PREMIUM
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=124&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:0,GOLDEN PLUS
+#EXTGRP: PREMIUM
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=122&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/m3u.png",BrooTV | STAR PREMIUM
+#EXTGRP:PREMIUM
+https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
+
+#EXTINF:0,STAR CHANNEL
+#EXTGRP: PREMIUM
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=46&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:0,STAR ACTION
+#EXTGRP: PREMIUM
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=336&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:0,STAR CINEMA
+#EXTGRP: PREMIUM
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=1729&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:0,STAR SERIES
+#EXTGRP: PREMIUM
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=139&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:0,STAR HITS
+#EXTGRP: PREMIUM
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=146&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:0,STAR COMEDY
+#EXTGRP: PREMIUM
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=1725&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:0,STAR FUN
+#EXTGRP: PREMIUM
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=1724&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:0,STAR CLASSICS
+#EXTGRP: PREMIUM
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=1732&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:0,STAR LIFE
+#EXTGRP: PREMIUM
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=77&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/m3u.png",BrooTV | HBO
+#EXTGRP:PREMIUM
+https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
+
+#EXTINF:0,HBO
+#EXTGRP:PREMIUM
+https://archive.org/download/brootv_aniversario/BROOTV_1_ANIVERSARIO.mp4
+#EXTINF:0,HBO 2
+#EXTGRP:PREMIUM
+https://archive.org/download/brootv_aniversario/BROOTV_1_ANIVERSARIO.mp4
+#EXTINF:0,HBO+
+#EXTGRP:PREMIUM
+https://archive.org/download/brootv_aniversario/BROOTV_1_ANIVERSARIO.mp4
+#EXTINF:0,HBO FAMILY
+#EXTGRP:PREMIUM
+https://archive.org/download/brootv_aniversario/BROOTV_1_ANIVERSARIO.mp4
+#EXTINF:0,HBO SIGNATURE
+#EXTGRP:PREMIUM
+https://archive.org/download/brootv_aniversario/BROOTV_1_ANIVERSARIO.mp4
+#EXTINF:0,HBO MUNDI
+#EXTGRP:PREMIUM
+https://archive.org/download/brootv_aniversario/BROOTV_1_ANIVERSARIO.mp4
+#EXTINF:0,HBO POP
+#EXTGRP:PREMIUM
+https://archive.org/download/brootv_aniversario/BROOTV_1_ANIVERSARIO.mp4
+#EXTINF:0,HBO XTREME
+#EXTGRP:PREMIUM
+https://archive.org/download/brootv_aniversario/BROOTV_1_ANIVERSARIO.mp4
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/m3u.png",BrooTV | MÚSICA
+#EXTGRP:MÚSICA
+https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
+
 #EXTINF:0,MTV
 #EXTGRP:MÚSICA
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=212&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -326,7 +413,35 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=218&f=HLSAD&s=hkc26at
 #EXTINF:0,TELEHIT PLUS
 #EXTGRP:MÚSICA
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=220&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:0,TH GLOBAL HITS
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/52637
+#EXTINF:0,TH RETRO
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/42485
+#EXTINF:0,TH TROPICAL
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/43219
+#EXTINF:0,TH TOP 100
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/39837
+#EXTINF:0,TH MIX VDJ 1
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/39075
+#EXTINF:0,TH MIX VDJ 2
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/47432
+#EXTINF:0,TH CONCIERTOS LIVE
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/64256
+#EXTINF:0,TH PURO ROCK
+#EXTGRP:MÚSICA
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/25.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logos_/m3u.png",BrooTV | DEPORTES
+#EXTGRP:DEPORTES
+https://archive.org/download/broo-tv-iptv-ott-2021-2/BrooTV_IPTV_OTT_2021_2.mp4
 
 #EXTINF:0,ESPN
 #EXTGRP:DEPORTES
