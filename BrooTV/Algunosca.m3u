@@ -1,64 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Lista 01", 11 | HBO UHD 
+#EXTINF:-1 group-title="Lista 01", 11 | HBO UHD*
 http://1581.f5.si:8000/asr1969/WU4C7AJ/2790 
 
-#EXTINF:-1 group-title="Lista 01", 12 | HBO 2 HD 
+#EXTINF:-1 group-title="Lista 01", 12 | HBO 2 HD *
 http://1581.f5.si:8000/asr1969/WU4C7AJ/2791 
 
-#EXTINF:-1 group-title="Lista 01", 13 | HBO FAMILY UHD 
+#EXTINF:-1 group-title="Lista 01", 13 | HBO FAMILY UHD *
 http://1581.f5.si:8000/asr1969/WU4C7AJ/2792 
 
-#EXTINF:-1 group-title="Lista 01", 14 | HBO PLUS UHD 
+#EXTINF:-1 group-title="Lista 01", 14 | HBO PLUS UHD *
 http://1581.f5.si:8000/asr1969/WU4C7AJ/2793 
 
-#EXTINF:-1 group-title="Lista 01", 15 | HBO SIGNATURE UHD 
+#EXTINF:-1 group-title="Lista 01", 15 | HBO SIGNATURE UHD *
 http://1581.f5.si:8000/asr1969/WU4C7AJ/2794 
 
-#EXTINF:-1 group-title="Lista 01", 16 | HBO POP UHD 
+#EXTINF:-1 group-title="Lista 01", 16 | HBO POP UHD *
 http://1581.f5.si:8000/asr1969/WU4C7AJ/2795 
 
-#EXTINF:-1 group-title="Lista 01", 17 | HBO MUNDI 
+#EXTINF:-1 group-title="Lista 01", 17 | HBO MUNDI *
 http://1581.f5.si:8000/asr1969/WU4C7AJ/2796
 
-#EXTINF:-1 group-title="Lista 01", 27 | HBO 2 ®
-http://1581.f5.si:8000/asr1969/WU4C7AJ/2806
-
-#EXTINF:-1 group-title="Lista 01", 22 | HBO HD 
-http://1581.f5.si:8000/asr1969/WU4C7AJ/3896 
-
-#EXTINF:-1 group-title="Lista 01", 23 | HBO PLUS 
-http://1581.f5.si:8000/asr1969/WU4C7AJ/3897 
-
-#EXTINF:-1 group-title="Lista 01", 24 | HBO Signature 
-http://1581.f5.si:8000/asr1969/WU4C7AJ/3898 
-
-#EXTINF:-1 group-title="Lista 01", 25 | HBO 2 
-http://1581.f5.si:8000/asr1969/WU4C7AJ/3904 
-
-#EXTINF:-1 group-title="Lista 01", 26 | HBO Family 
-http://1581.f5.si:8000/asr1969/WU4C7AJ/3905 
-
-#EXTINF:-1 group-title="Lista 01", 27 | HBO Pop 
-http://1581.f5.si:8000/asr1969/WU4C7AJ/3906 
-
-#EXTINF:-1 group-title="Lista 01", 28 | HBO Mundi 
-http://1581.f5.si:8000/asr1969/WU4C7AJ/3907 
-
-#EXTINF:-1 group-title="Lista 01", 29 | HBO Xtreme 
+#EXTINF:-1 group-title="Lista 01", 29 | HBO Xtreme *
 http://1581.f5.si:8000/asr1969/WU4C7AJ/3908
 
-#EXTINF:-1 group-title="Lista 01", SUR | HBO 2 
-http://1581.f5.si:8000/asr1969/WU4C7AJ/4797 
 
-#EXTINF:-1 group-title="Lista 01", SUR | HBO FAMILY 
-http://1581.f5.si:8000/asr1969/WU4C7AJ/4798 
-
-#EXTINF:-1 group-title="Lista 01", SUR | HBO PLUS 
-http://1581.f5.si:8000/asr1969/WU4C7AJ/4799 
-
-#EXTINF:-1 group-title="Lista 01", SUR | HBO MUNDI 
-http://1581.f5.si:8000/asr1969/WU4C7AJ/4800
 
 #EXTINF:-1 group-title="Lista 01", 06 | TNT SPORTS FHD 
 http://1581.f5.si:8000/asr1969/WU4C7AJ/3528 
