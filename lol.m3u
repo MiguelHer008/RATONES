@@ -19,3 +19,7 @@ http://app.ultimate2019.com/stream/get/62
 #EXTINF:-1 tvg-logo="",LOL ex
 #EXTGRP:MÉXICO
 http://app.ultimate2019.com/stream/get/68
+
+#EXTINF:-1 tvg-logo="",LOL Nick jr
+#EXTGRP:MÉXICO
+http://app.ultimate2019.com/stream/get/79
