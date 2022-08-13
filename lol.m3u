@@ -3,3 +3,7 @@
 #EXTINF:-1 tvg-logo="",LOL
 #EXTGRP:MÉXICO
 http://app.ultimate2019.com/stream/get/426p
+
+#EXTINF:-1 tvg-logo="",LOL 2
+#EXTGRP:MÉXICO
+http://app.ultimate2019.com/app2/stream_info/939
