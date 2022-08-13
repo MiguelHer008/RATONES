@@ -40,10 +40,6 @@ http://app.ultimate2019.com/stream/get/520
 #EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/424
 
-#EXTINF:-1 tvg-logo="",EL CHAVO DEL 8 ANIMADO
-#EXTGRP:NEWS
-http://app.ultimate2019.com/stream/get/790
-
 #EXTINF:-1 tvg-logo="",EL CHAVO DEL 8
 #EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/400
@@ -60,14 +56,6 @@ http://app.ultimate2019.com/stream/get/948
 #EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/671
 
-#EXTINF:-1 tvg-logo="",LA HORA PICO
-#EXTGRP:NEWS
-http://app.ultimate2019.com/stream/get/887
-
-#EXTINF:-1 tvg-logo="",LA PEQUEÑA LULU
-#EXTGRP:NEWS
-http://app.ultimate2019.com/stream/get/792
-
 #EXTINF:-1 tvg-logo="",LA ROSA DE GUADALUPE
 #EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/886
@@ -75,14 +63,6 @@ http://app.ultimate2019.com/stream/get/886
 #EXTINF:-1 tvg-logo="",LOONEY TUNES
 #EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/524
-
-#EXTINF:-1 tvg-logo="",LOS PINGUINOS DE MADAGASCAR
-#EXTGRP:NEWS
-http://app.ultimate2019.com/stream/get/794
-
-#EXTINF:-1 tvg-logo="",LOS PITUFOS
-#EXTGRP:NEWS
-http://app.ultimate2019.com/stream/get/795
 
 #EXTINF:-1 tvg-logo="",MALCOM
 #EXTGRP:NEWS
@@ -100,10 +80,6 @@ http://app.ultimate2019.com/stream/get/523
 #EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/787
 
-#EXTINF:-1 tvg-logo="",POCOYO
-#EXTGRP:NEWS
-http://app.ultimate2019.com/stream/get/799
-
 #EXTINF:-1 tvg-logo="",POKEMON
 #EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/420
@@ -120,23 +96,11 @@ http://app.ultimate2019.com/stream/get/889
 #EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/421
 
-#EXTINF:-1 tvg-logo="",LA CASA DE PAPEL
-#EXTGRP:NEWS
-http://app.ultimate2019.com/stream/get/927
-
-#EXTINF:-1 tvg-logo="",EL INCREIBLE MUNDO DE GUMBALL
-#EXTGRP:NEWS
-http://app.ultimate2019.com/stream/get/791
-
-#EXTINF:-1 tvg-logo="",EL COYOTE Y EL CORRECAMINOS
-#EXTGRP:NEWS
-http://app.ultimate2019.com/stream/get/429
-
 #EXTINF:-1 tvg-logo="",ALF
 #EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/426
 
-#EXTINF:-1 tvg-logo="",CSI: MIAMI
+#EXTINF:-1 tvg-logo="",CSI MIAMI
 #EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/714
 
@@ -147,10 +111,6 @@ http://app.ultimate2019.com/stream/get/670
 #EXTINF:-1 tvg-logo="",GAME OF THRONES
 #EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/515
-
-#EXTINF:-1 tvg-logo="",JOHNNY BRAVO
-#EXTGRP:NEWS
-http://app.ultimate2019.com/stream/get/786
 
 #EXTINF:-1 tvg-logo="",LOS PICAPIEDRAS
 #EXTGRP:NEWS
