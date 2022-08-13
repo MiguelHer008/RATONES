@@ -1,25 +1,73 @@
-﻿#EXTM3U
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="",LOL
-#EXTGRP:MÉXICO
-http://app.ultimate2019.com/stream/get/426p
-
-#EXTINF:-1 tvg-logo="",LOL 2
-#EXTGRP:MÉXICO
-http://app.ultimate2019.com/app2/stream_info/939
-
-#EXTINF:-1 tvg-logo="",LOL 3
-#EXTGRP:MÉXICO
+#EXTINF:-1 tvg-logo="",AFIZZIONADOS
+#EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/939
 
-#EXTINF:-1 tvg-logo="",LOL 4
-#EXTGRP:MÉXICO
+#EXTINF:-1 tvg-logo="",HBO
+#EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/62
 
-#EXTINF:-1 tvg-logo="",LOL ex
-#EXTGRP:MÉXICO
-http://app.ultimate2019.com/stream/get/68
+#EXTINF:-1 tvg-logo="",HBO 2
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/300
 
-#EXTINF:-1 tvg-logo="",LOL Nick jr
-#EXTGRP:MÉXICO
-http://app.ultimate2019.com/stream/get/79
+#EXTINF:-1 tvg-logo="",HBO FAMILY
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/63
+
+#EXTINF:-1 tvg-logo="",HBO+
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/64
+
+#EXTINF:-1 tvg-logo="",HBO XTREME
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/814
+
+#EXTINF:-1 tvg-logo="",UNIVISION
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/99
+
+#EXTINF:-1 tvg-logo="",DIRECTV SPORTS
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/259
+
+#EXTINF:-1 tvg-logo="",DIRECTV SPORTS 2
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/667
+
+#EXTINF:-1 tvg-logo="",DIRECTV SPORTS+
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/935
+
+#EXTINF:-1 tvg-logo="",H2
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/61
+
+#EXTINF:-1 tvg-logo="",FOX SPORTS PREMIUM
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/512
+
+#EXTINF:-1 tvg-logo="",TELEMUNDO
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/92
+
+#EXTINF:-1 tvg-logo="",UNIVERSAL CINEMA
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/902
+
+#EXTINF:-1 tvg-logo="",UNIVERSAL COMEDY
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/903
+
+#EXTINF:-1 tvg-logo="",UNIVERSAL CRIME
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/904
+
+#EXTINF:-1 tvg-logo="",UNIVERSAL PREMIERE
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/901
+
+#EXTINF:-1 tvg-logo="",UNIVERSAL REALITY
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/905
