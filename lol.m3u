@@ -11,3 +11,11 @@ http://app.ultimate2019.com/app2/stream_info/939
 #EXTINF:-1 tvg-logo="",LOL 3
 #EXTGRP:MÉXICO
 http://app.ultimate2019.com/stream/get/939
+
+#EXTINF:-1 tvg-logo="",LOL 4
+#EXTGRP:MÉXICO
+http://app.ultimate2019.com/stream/get/62
+
+#EXTINF:-1 tvg-logo="",LOL ex
+#EXTGRP:MÉXICO
+http://app.ultimate2019.com/stream/get/68
