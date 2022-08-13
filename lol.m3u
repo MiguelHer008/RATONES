@@ -71,3 +71,7 @@ http://app.ultimate2019.com/stream/get/901
 #EXTINF:-1 tvg-logo="",UNIVERSAL REALITY
 #EXTGRP:NEWS
 http://app.ultimate2019.com/stream/get/905
+
+#EXTINF:-1 tvg-logo="",JORGE EL CURIOSO
+#EXTGRP:NEWS
+http://app.ultimate2019.com/stream/get/909
