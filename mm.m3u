@@ -1,0 +1,407 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/AZTECA_UNO.png",AZTECA UNO
+#EXTGRP:MÉXICO
+https://app.ultimate2019.com/stream/get/4.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/ADN40.png",ADN 40
+#EXTGRP:MÉXICO
+https://app.ultimate2019.com/stream/get/447.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/LAS_ESTRELLAS.png",LAS ESTRELLAS
+#EXTGRP:MÉXICO
+https://app.ultimate2019.com/stream/get/411.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/LAS_ESTRELLAS.png",LAS ESTRELLAS -1 HORA
+#EXTGRP:MÉXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2037&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/FORO_TV.png",FORO TV
+#EXTGRP:MÉXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=700&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/IMAGEN_TV.png",IMAGEN TV
+#EXTGRP:MÉXICO
+https://app.ultimate2019.com/stream/get/341.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_ott-news/CANAL_5.png",CANAL 5
+#EXTGRP:MÉXICO
+https://app.ultimate2019.com/stream/get/14.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/NU9VE.png",NU9VE
+#EXTGRP:MÉXICO
+https://app.ultimate2019.com/stream/get/56.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/AZTECA_7.png",AZTECA 7
+#EXTGRP:MÉXICO
+https://app.ultimate2019.com/stream/get/5.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/AMAS.png",A+
+#EXTGRP:MÉXICO
+https://app.ultimate2019.com/stream/get/406.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/ONCE.png",ONCE
+#EXTGRP:MÉXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=25&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/AZ_CLIC.png",AZ CLIC
+#EXTGRP:MÉXICO
+https://app.ultimate2019.com/stream/get/165.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/AZ_MUNDO.png",AZ MUNDO
+#EXTGRP:MÉXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=84&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/AZ_CORAZON.png",AZ CORAZON
+#EXTGRP:MÉXICO
+https://app.ultimate2019.com/stream/get/166.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/AZ_CINEMA.png",AZ CINEMA
+#EXTGRP:MÉXICO
+https://app.ultimate2019.com/stream/get/186.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/MILENIO.png",MILENIO
+#EXTGRP:MÉXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1252&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/MEXIQUENSE_TV.png",MEXIQUENSE TV
+#EXTGRP:MÉXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=44&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_mexico_9oct/TVC.png",TVC
+#EXTGRP:MÉXICO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2156&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/TOONCAST.png",TOONCAST
+#EXTGRP:KIDS
+https://app.ultimate2019.com/stream/get/95.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/DISCOVERY_KIDS.png",DISCOVERY KIDS
+#EXTGRP:KIDS
+https://app.ultimate2019.com/stream/get/25.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/DISNEY_CHANNEL.png",DISNEY CHANNEL
+#EXTGRP:KIDS
+https://app.ultimate2019.com/stream/get/29.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/DISNEY_JUNIOR.png",DISNEY JUNIOR
+#EXTGRP:KIDS
+https://app.ultimate2019.com/stream/get/30.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/800px-Cartoonito_-_Logo_2021.svg.png",CARTOONITO
+#EXTGRP:KIDS
+https://app.ultimate2019.com/stream/get/11.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/NICKELODEON.png",NICK
+#EXTGRP:KIDS
+https://app.ultimate2019.com/stream/get/78.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/NICK_JR.png",NICK JR
+#EXTGRP:KIDS
+https://app.ultimate2019.com/stream/get/79.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/NICKMUSIC.png",NICKMUSIC
+#EXTGRP:KIDS
+https://app.ultimate2019.com/stream/get/80.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/TEENNICK.png",TEENNICK
+#EXTGRP:KIDS
+https://app.ultimate2019.com/stream/get/184.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_kids/CARTOON_NETWORK.png",CARTOON NETWORK
+#EXTGRP:KIDS
+https://app.ultimate2019.com/stream/get/17.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/DISCOVERY_CHANNEL.png",DISCOVERY CHANNEL
+#EXTGRP:CULTURA
+https://app.ultimate2019.com/stream/get/22.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/DISCOVERY_THEATER.png",DISCOVERY THEATER
+#EXTGRP:CULTURA
+https://app.ultimate2019.com/stream/get/27.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/DISCOVERY_H%26H.png",DISCOVERY HOME & HEALTH
+#EXTGRP:CULTURA
+https://app.ultimate2019.com/stream/get/24.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/DISCOVERY_ID.png",DISCOVERY ID
+#EXTGRP:CULTURA
+https://app.ultimate2019.com/stream/get/68.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/DISCOVERY_TLC.png",DISCOVERY TLC
+#EXTGRP:CULTURA
+https://app.ultimate2019.com/stream/get/87.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/DISCOVERY_SCIENCE.png",DISCOVERY SCIENCE
+#EXTGRP:CULTURA
+https://app.ultimate2019.com/stream/get/26.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/DISCOVERY_WORLD.png",DISCOVERY WORLD
+#EXTGRP:CULTURA
+https://app.ultimate2019.com/stream/get/187.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/DISCOVERY_TURBO.png",DISCOVERY TURBO
+#EXTGRP:CULTURA
+https://app.ultimate2019.com/stream/get/28.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/GARAGE_TV.png",EL GARAGE TV
+#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=75&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/HISTORY.png",HISTORY
+#EXTGRP:CULTURA
+https://app.ultimate2019.com/stream/get/67.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/H2.png",H2
+#EXTGRP:CULTURA
+https://app.ultimate2019.com/stream/get/61.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/NAT_GEO.png",NAT GEO
+#EXTGRP:CULTURA
+https://app.ultimate2019.com/stream/get/76.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/ANIMAL_PLANET.png",ANIMAL PLANET
+#EXTGRP:CULTURA
+https://app.ultimate2019.com/stream/get/3.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cultura_2/STAR_TVE.png",STAR TVE
+#EXTGRP:CULTURA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2375&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/WOW_TV.png",WOW TV
+#EXTGRP:FAMILIA
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/TELEMUNDO.png",TELEMUNDO
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/92.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_ott-news/TELEMUNDO_INTERNACIONAL.png",TELEMUNDO INTERNACIONAL
+#EXTGRP:FAMILIA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=85&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/SONY.png",SONY
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/145.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/E%21.png",E!
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/33.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/UNIVERSAL.png",UNIVERSAL
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/137.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/UNIVERSAL_CINEMA.png",UNIVERSAL CINEMA
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/902.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/UNIVERSAL_COMEDY.png",UNIVERSAL COMEDY
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/903.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/UNIVERSAL_CRIME.png",UNIVERSAL CRIME
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/904.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/UNIVERSAL_PREMIERE.png",UNIVERSAL PREMIERE
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/901.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/UNIVERSAL_REALITY.png",UNIVERSAL REALITY
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/905.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_ott-news/SYFY.png",SYFY
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/151.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/FX.png",FX
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/42.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/A%26E.png",A&E
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/1.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/UNICABLE.png",UNICABLE
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/98.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/UNIVISION.png",UNIVISION
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/99.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/GLITZ.png",GLITZ
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/158.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/EL_GOURMET.png",EL GOURMET
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/157.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/FOOD_NETWORK.png",FOOD NETWORK
+#EXTGRP:FAMILIA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2145&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/DISTRITO_COMEDIA.png",DISTRITO COMEDIA
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/32.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/COMEDY_CENTRAL.png",COMEDY CENTRAL
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/135.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_ott-news/TRUTV.png",TRUTV
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/96.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/TLNOVELAS.png",TLNOVELAS
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/94.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/LIFETIME.png",LIFETIME
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/152.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/ANTENA_3.png",ANTENA 3
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/298.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/HOLA_TV.png",¡HOLA! TV
+#EXTGRP:FAMILIA
+https://app.ultimate2019.com/stream/get/189.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_familia__2/MAS_CHIC.png",MAS CHIC
+#EXTGRP:FAMILIA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1842&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/A3CINE.png",A3CINE
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/945.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/A3SERIES.png",A3SERIES
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/444.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/TBS.png",TBS
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/171.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/DE_PELICULA.png",DE PELÍCULA 
+#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/DE_PELICULA_PLUS.png",DE PELÍCULA PLUS
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/21.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/TNT.png",TNT
+#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/TNT_SERIES.png",TNT SERIES
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/90.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN.png",GOLDEN
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/57.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_EDGE.png",GOLDEN EDGE
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/58.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png",GOLDEN PLUS
+#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=122&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_star_premium/STAR_CHANNEL.png",STAR CHANNEL
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/45.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO.png",HBO
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/62.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_2.png",HBO 2
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/300.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_FAMILY.png",HBO FAMILY
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/63.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_PLUS.png",HBO+
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/64.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_XTREME.png",HBO XTREME
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/814.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/TCM.png",TCM
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/85.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_ott-news/SPACE.png",SPACE
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/83.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/AMC.png",AMC
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/183.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/STUDIO_UNIVERSAL.png",STUDIO UNIVERSAL
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/84.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/WARNER.png",WARNER
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/102.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/EUROPA_EUROPA.png",EUROPA EUROPA
+#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=136&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/FILM_%26_ARTS.png",FILM & ARTS
+#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=137&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/I.SAT.png",I.SAT
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/153.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/M%C3%93RBIDO.png",MÓRBIDO
+#EXTGRP:CINE Y SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=140&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/CINECANAL.png",CINECANAL
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/18.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/CINEMAX.png",CINEMAX
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/20.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_cine_y_series_/PARAMOUNT.png",PARAMOUNT CHANNEL
+#EXTGRP:CINE Y SERIES
+https://app.ultimate2019.com/stream/get/200.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/MTV.png",MTV
+#EXTGRP:MÚSICA
+https://app.ultimate2019.com/stream/get/69.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/MTV_LIVE.png",MTV LIVE
+#EXTGRP:MÚSICA
+https://app.ultimate2019.com/stream/get/70.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/MTV_HITS.png",MTV HITS
+#EXTGRP:MÚSICA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=213&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/MTV_80s.png",MTV 80s
+#EXTGRP:MÚSICA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=214&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/MTV_00s.png",MTV 00s
+#EXTGRP:MÚSICA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=334&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/BANDAMAX.png",BANDAMAX
+#EXTGRP:MÚSICA
+https://app.ultimate2019.com/stream/get/8.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/TELEHIT.png",TELEHIT
+#EXTGRP:MÚSICA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=218&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/TELEHIT_PLUS.png",TELEHIT PLUS
+#EXTGRP:MÚSICA
+https://app.ultimate2019.com/stream/get/91.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/Toca_Hits.png",TH GLOBAL HITS
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/52637
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/Toca_Hits.png",TH RETRO
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/42485
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/Toca_Hits.png",TH TROPICAL
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/43219
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/Toca_Hits.png",TH TOP 100
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/39837
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/Toca_Hits.png",TH MIX VDJ 1
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/39075
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/Toca_Hits.png",TH MIX VDJ 2
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/47432
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_musica_/Toca_Hits.png",TH CONCIERTOS LIVE
+#EXTGRP:MÚSICA
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/64256
+
+
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/ESPN.png",ESPN
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/531.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/ESPN_2.png",ESPN 2
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/530.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/ESPN_3.png",ESPN 3
+#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=345&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/ESPN_EXTRA.png",ESPN EXTRA
+#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=167&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/FOX_SPORTS.png",FOX SPORTS
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/527.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/FOX_SPORTS_2.png",FOX SPORTS 2
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/528.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/FOX_SPORTS_3.png",FOX SPORTS 3
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/54.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/FOX_SPORTS_PREMIUM.png",FOX SPORTS PREMIUM
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/512.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/TUDN.png",TUDN
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/698.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/AFIZZIONADOS.png",AFIZZIONADOS
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/939.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/DIRECTV_SPORTS.png",DIRECTV SPORTS
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/667.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/DIRECTV_SPORTS_PLUS.png",DIRECTV SPORTS+
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/935.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/GOLF.png",GOLF
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/947.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/AYM_SPORTS.png",AYM SPORTS
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/148.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/ADRENALINA_SPORTS.png",ADRENALINA SPORTS
+#EXTGRP:DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2404&f=HLSAD&S=v1acx2a128c82haekzea18pjzzpk8c2p1kkzbjct181zjbhz2c2hvcz86z8tjp21t8acakv2zvvzjh26cecta8aj1z1jhv66zccek26hzztvcjpckatavh81pppj16bc&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/TVC_DEPORTES.png",TVC DEPORTES
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/837.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_deportes_/CLARO_SPORTS.png",CLARO SPORTS
+#EXTGRP:DEPORTES
+https://app.ultimate2019.com/stream/get/328.m3u8
